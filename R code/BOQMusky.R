@@ -13,7 +13,6 @@ library(raster)
 library(data.table)
 library(ATT)
 
-
 data <- read_glatos_detections("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/BQMUS_detectionsWithLocs_20231030_132619.csv")
 data <- false_detections(data, tf = 3600, show_plot = TRUE) #The filter identified 2198 (0.41%) of 533352 detections as potentially false.
 data <- data[data$passed_filter == 1,] #934340 detections for my study
@@ -70,89 +69,16 @@ tiff(filename = paste0("AnimalID_", 4, ".tif"),  width = 750, height = 480, unit
     ggtitle(label = "Animal ID 4")
 dev.off()
 
-
-#create animations for each fish 
-gl <- st_read("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/great_lakes_us_ca.shp")
-lakes <- st_as_sf(gl)
-
-
-
-tran1 <- make_transition(in_file=file.choose(),
-                         output='Lake_Ontario.tiff',
-                         output_dir='C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky',
-                         res=c(0.1, 0.1))
-
-
-Hourly_Position <- interpolate_path(data,
-                                     int_time_stamp=3600,
-                                     lnl_thresh=0.9)
-myDir <- paste0(getwd(),"/frames2")
-make_frames(Hourly_Position, recs = rec,  
-            out_dir=myDir, animate = TRUE, 
-            preview = TRUE, col = Hourly_Position$animal_id,
-            background_xlim = c(-77.7, -76.8), 
-            background_ylim = c(44, 44.3),
-            ani_name = "BOQMusky.mp4", pch = 16, cex = 3, 
-            tail_dur=5, frame_delete = TRUE,
-            overwrite = TRUE)
-#make a plot with the receiver locations 
-##additional way to create animations using ggplot 
-gl <- st_read("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/great_lakes_us_ca.shp")
-
-
-# get example walleye detection data
-#det_file <- system.file("extdata", "walleye_detections.csv",
-# Assuming lakes is the original spatial object
-
-
-# Use st_intersection to extract the desired area                       package = "glatos")
-#det <- read_glatos_detections(det_file)
-
-# bring in receiver file and convert to sf spatial object
-#rec_file <- system.file("extdata", "sample_receivers.csv", package = "glatos")
-#recs <- read_glatos_receivers(rec_file)
-setDT(rec) # convert to data.table object- necessary for sf package
-#recs <- recs[deploy_long < -80,]
-recs_sf <- st_as_sf(rec, coords = c("deploy_long", "deploy_lat"), crs = 4326)
-
-# temporarily convert sf spatial to sp
-# make_transition only accepts sp SpatialPolygonsDataFrame
-lakes <- as(lakes, "Spatial")
-
-# make transition layer.
-tran <- make_transition(lakes, res = c(0.01, 0.01), all_touched = TRUE)
-
-# convert back to sf
-lakes <- st_as_sf(lakes)
-cap2 <- "Plot of transition layer, receivers (orange circles), fish detection location (red circles) in lakes Huron and Erie." 
-# create quick plot of fish and receivers to make sure they are "on the map" (Figure 2)
-unique_fish <- unique(det, by = c("deploy_lat", "deploy_long")) 
-plot(tran$rast)
-plot(st_geometry(lakes), add = TRUE)
-plot(st_geometry(recs_sf), pch=20, col= "orange", add = TRUE)
-points(unique_fish$deploy_long, unique_fish$deploy_lat, pch = 20, col = "red")
-
 #############################################################################################################
-######################trial 3
-##USE/Start Here##USE/Start Here
-##USE/Start Here
-##USE/Start Here
-##USE/Start Here
-##USE/Start Here
-##USE/Start Here
-##USE/Start Here
-
+###################### Make Animations 
 
 ####  Shape File and transition Layer ####
 Lake_O <- sf::st_read("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/Lake_Ontario.shp")
 #### Casts shape file into polygon
 Lake_O <- st_cast(Lake_O, "POLYGON")
 #### Transition Layer with given resolution
-test <-  crop(Lake_O, extent(-77.7, -76.8, 44, 44.3))
-
 Lake_O_t <- make_transition3(Lake_O, res = c(0.01, 0.01))
-#### Interpolate path for all walleye
-#### Adjust resolution if needed, depending on computer specifications.
+#### Interpolate path
 Hourly_Position <- interpolate_path(data,
                                     trans = Lake_O_t$transition,
                                     int_time_stamp=3600,

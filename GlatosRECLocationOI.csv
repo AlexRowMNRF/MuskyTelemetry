@@ -1,0 +1,11 @@
+station,glatos_array,station_no,consecutive_deploy_no,intend_lat,intend_long,deploy_lat,deploy_long,recover_lat,recover_long,deploy_date_time,recover_date_time,bottom_depth,riser_length,instrument_depth,ins_model_no,glatos_ins_frequency,ins_serial_no,code_map,code_map_comment,deployed_by,comments,glatos_seasonal,glatos_project,glatos_vps
+TNN-001,TNN,1,5,,,44.10915,-77.50029,,,11/01/2017 14:25,05/31/2018 14:58,,,,VR2W,69,126995,MAP-114,,"Rupnik, A",,No,ELOMA,No
+TNN-002,TNN,2,6,,,44.1126,-77.5003,,,11/01/2017 14:35,05/31/2018 15:11,,,,VR2W,69,126964,MAP-114,,"Rupnik, A",,No,ELOMA,No
+TNT-001,TNT,1,2,,,44.09992,-77.57183,,,03/29/2018 12:00,05/31/2018 15:32,,,,VR2W,69,126986,MAP-114,error 1 initialization occurred between deploy and recover,"Bonsall, A",,Yes,ELOMA,No
+MCL-001,MCL,1,4,,,44.06105,-77.58023,,,04/05/2018 12:00,06/06/2018 15:20,,,,VR2W,69,126972,MAP-114,,"Bonsall, A",,Yes,ELOMA,No
+PBY-001,PBY,1,1,,,44.00692,-77.68596,,,11/27/2018 18:00,06/03/2019 14:00,,,,VR2W,69,126987,MAP-114,,"Elliott, C",,No,ELOMA,No
+TRR-001,TRR,1,1,,,44.10812,-77.58181,,,04/01/2019 15:00,10/30/2019 14:00,,,,VR2Tx,69,481190,MAP-114,,"Elliott, C",,No,ELOMA,No
+MOR-001,MOR,1,5,,,44.1586,-77.38483,,,06/09/2022 22:00,05/31/2023 13:00,3.2,,,VR2W,69,126996,MAP-115,,"Elliott, C",,No,ELOMA,No
+BBG-002,BBG,2,2,,,44.147,-77.38817,,,10/14/2015 19:40,06/02/2016 14:50,,,,VR2W,69,126984,MAP-113,,"Hornsby, R",,No,ELOMA,No
+BBG-001,BBG,1,2,,,44.14467,-77.38767,,,10/14/2015 19:10,06/02/2016 14:55,,,,VR2W,69,126991,MAP-113,,"Hornsby, R",,No,ELOMA,No
+MPT-001,MPT,1,12,,,44.15147,-77.31048,,,06/11/2021 15:00,06/09/2022 14:00,,,,VR2Tx,69,483748,MAP-114,,"Elliott, C",,No,ELOMA,No

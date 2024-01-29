@@ -13,9 +13,10 @@ library(raster)
 library(data.table)
 library(ATT)
 
-data <- read_glatos_detections("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/BQMUS_detectionsWithLocs_20231030_132619.csv")
+#Must specify and include direct path to detection file in local computer - file too large to upload into github
+data <- read_glatos_detections("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/OldMusky_cloned/BQMUS_detectionsWithLocs_20231030_132619.csv")
 data <- false_detections(data, tf = 3600, show_plot = TRUE) #The filter identified 2198 (0.41%) of 533352 detections as potentially false.
-data <- data[data$passed_filter == 1,] #934340 detections for my study
+data <- data[data$passed_filter == 1,] #531154 detections for my study
 
 #change the detections into est instead of utc
 data$detection_timestamp_est <- format(data$detection_timestamp_utc, tz = 'est', usetz = TRUE) #detection timestampts were in UTC
@@ -24,7 +25,7 @@ summarize_detections(data)
 detection_events <- glatos::detection_events(data)
 residence_index(detection_events, group_col = "animal_id" )
 #REceivers
-rec <- read_glatos_receivers("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/GLATOS_receiverLocations_20231025_203940.csv")
+rec <- read_glatos_receivers("./GLATOS_receiverLocations_20231025_203940.csv")
 #
 data <- data %>% 
   mutate(animal_id = as.integer(ifelse(animal_id == "BQMUS_001", 1, 
@@ -47,7 +48,7 @@ mytheme <- theme(
 
 tiff(filename = paste0("AnimalID_", 4, ".tif"),  width = 750, height = 480, units = "px")
   data %>%
-    filter(animal_id == "1" & station != "MPT-001") %>%
+    filter(animal_id == "4" & station != "MPT-001") %>%
     ggplot(aes(x = as.numeric(JulianDay), y = station, colour = as.factor(YearFormat))) +
     scale_y_discrete(name = "Station") +
     #scale_x_continuous(breaks = seq(0,400, 25), limits = c(0,400)) +
@@ -69,6 +70,62 @@ tiff(filename = paste0("AnimalID_", 4, ".tif"),  width = 750, height = 480, unit
     ggtitle(label = "Animal ID 4")
 dev.off()
 
+as.numeric(start_date)
+########
+start_date <- combined_temp %>%
+  filter(AVGtemp >= 13.2 & AVGtemp <= 18.1) %>%
+  slice_min(order_by = Date_day) %>%
+  pull(Date_day)
+
+end_date <- combined_temp %>%
+  filter(AVGtemp >= 13.2 & AVGtemp <= 18.1) %>%
+  slice_max(order_by = Date_day) %>%
+  pull(Date_day)
+
+start_date2 <- combined_temp %>%
+  filter(AVGtemp >= 7 & AVGtemp <= 17 & Date_day > "2020-04-20") %>%
+  slice_min(order_by = Date_day) %>%
+  pull(Date_day)
+
+end_date2 <- combined_temp %>%
+  filter(AVGtemp >= 7 & AVGtemp <= 17 & Date_day > "2020-04-20") %>%
+  slice_max(order_by = Date_day) %>%
+  pull(Date_day)
+
+start_date$JulianDay <- format(as.Date(start_date, format="%Y-%m-%d"),"%j")
+end_date$JulianDay <- format(as.Date(end_date, format="%Y-%m-%d"),"%j")
+
+start_date2$JulianDay <- format(as.Date(start_date2, format="%Y-%m-%d"),"%j")
+end_date2$JulianDay <- format(as.Date(end_date2, format="%Y-%m-%d"),"%j")
+
+tiff(filename = paste0("AnimalID_Spawning", 1, ".tif"),  width = 750, height = 480, units = "px")
+data %>%
+  filter(animal_id == "1" & station != "MPT-001") %>%
+  ggplot(aes(x = as.numeric(JulianDay), y = station, colour = as.factor(YearFormat))) +
+  scale_y_discrete(name = "Station") +
+  scale_x_continuous(breaks = c(15, 45, 74, 105, 135, 166, 196, 227, 258, 288, 319, 349),
+                     labels = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"),
+                     name = "\n Month") +
+  geom_rect(data = NULL, aes(xmin = as.numeric(start_date2$JulianDay), xmax = as.numeric(end_date2$JulianDay), ymin = -Inf, ymax = Inf),
+            fill = "darkgrey", alpha = 0.3) +
+ # geom_rect(data = NULL, aes(xmin = as.numeric(start_date$JulianDay), xmax = as.numeric(end_date$JulianDay), ymin = -Inf, ymax = Inf),
+ #           fill = "green", alpha = 0.3) +
+  
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2018'), position = position_nudge(y = 0.3)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2019'), position = position_nudge(y = 0.2)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2020'), position = position_nudge(y = 0.1)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2021' & station != "MPT-001"), position = position_nudge(y = 0)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2022'), position = position_nudge(y = -0.1)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2023'), position = position_nudge(y = -0.2)) +  
+  mytheme +
+  theme(legend.title = element_blank(),
+        legend.text = element_text(size = 20),
+        legend.box.background = element_blank(),
+        legend.key = element_blank()) +
+  guides(color = guide_legend(override.aes = list(size = 5))) +
+  ggtitle(label = "Animal ID 1")
+dev.off()
+#####
 #############################################################################################################
 ###################### Make Animations 
 
@@ -244,3 +301,25 @@ meanMCP_50 <- function(data){
 }
 output50 <- meanMCP_50(data)
 
+#testing new abacus plot 
+data %>%
+  filter(animal_id == "2" & station != "MPT-001") %>%
+  ggplot(aes(x = as.numeric(JulianDay), y = Trent, colour = as.factor(YearFormat))) +
+  scale_y_discrete(name = "Station") +
+  #scale_x_continuous(breaks = seq(0,400, 25), limits = c(0,400)) +
+  scale_x_continuous(breaks = c(15, 45, 74, 105, 135, 166, 196, 227, 258, 288, 319, 349), 
+                     labels = c("Jan" ,"Feb" ,"Mar", "Apr", "May" ,"Jun" ,"Jul" ,"Aug" ,"Sep" ,"Oct", "Nov", "Dec"), 
+                     name = "\n Month") +
+  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2018'), position = position_nudge(y = 0.3)) +
+  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2019'), position = position_nudge(y = 0.2)) +
+  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2020'), position = position_nudge(y = 0.1)) +
+  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2021' & station != "MPT-001"), position = position_nudge(y = 0)) +
+  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2022'), position = position_nudge(y = -0.1)) +
+  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2023'), position = position_nudge(y = -0.2)) +
+  mytheme +
+  theme(legend.title = element_blank(), 
+        legend.text = element_text(size = 20), 
+        legend.box.background = element_blank(), 
+        legend.key = element_blank()) +
+  guides(color = guide_legend(override.aes = list(size = 5))) +
+  ggtitle(label = "Animal ID 1")

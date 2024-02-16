@@ -1,4 +1,4 @@
-
+library(TraMineR)
 library(remotes)
 library(glatos)
 library(dplyr)
@@ -12,7 +12,10 @@ library(sp)
 library(raster)
 library(data.table)
 library(ATT)
-
+library(rvg)
+library(officer)
+remove.packages("officer")
+install.packages("officer")
 #Must specify and include direct path to detection file in local computer - file too large to upload into github
 data <- read_glatos_detections("C:/Users/rowal/OneDrive - Government of Ontario/Desktop/Special Projects/BOQMusky/BOQMusky/OldMusky_cloned/BQMUS_detectionsWithLocs_20231030_132619.csv")
 data <- false_detections(data, tf = 3600, show_plot = TRUE) #The filter identified 2198 (0.41%) of 533352 detections as potentially false.
@@ -301,21 +304,21 @@ meanMCP_50 <- function(data){
 }
 output50 <- meanMCP_50(data)
 
-#testing new abacus plot 
-data %>%
-  filter(animal_id == "2" & station != "MPT-001") %>%
-  ggplot(aes(x = as.numeric(JulianDay), y = Trent, colour = as.factor(YearFormat))) +
+#creating abacus plots for each fish for export into powerpoint  
+plot3 <- data %>%
+  filter(animal_id == "1" & station != "MPT-001" ) %>%
+  ggplot(aes(x = as.numeric(JulianDay), y = station, colour = as.factor(YearFormat))) +
   scale_y_discrete(name = "Station") +
   #scale_x_continuous(breaks = seq(0,400, 25), limits = c(0,400)) +
   scale_x_continuous(breaks = c(15, 45, 74, 105, 135, 166, 196, 227, 258, 288, 319, 349), 
                      labels = c("Jan" ,"Feb" ,"Mar", "Apr", "May" ,"Jun" ,"Jul" ,"Aug" ,"Sep" ,"Oct", "Nov", "Dec"), 
                      name = "\n Month") +
-  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2018'), position = position_nudge(y = 0.3)) +
-  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2019'), position = position_nudge(y = 0.2)) +
-  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2020'), position = position_nudge(y = 0.1)) +
-  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2021' & station != "MPT-001"), position = position_nudge(y = 0)) +
-  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2022'), position = position_nudge(y = -0.1)) +
-  geom_point(data = filter(data, animal_id == "2" & YearFormat == '2023'), position = position_nudge(y = -0.2)) +
+  #geom_point(data = filter(data, animal_id == "4" & YearFormat == '2018'), position = position_nudge(y = 0.3)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2019'), position = position_nudge(y = 0.2)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2020'), position = position_nudge(y = 0.1)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2021' & station != "MPT-001"), position = position_nudge(y = 0)) +
+  geom_point(data = filter(data, animal_id == "1" & YearFormat == '2022'), position = position_nudge(y = -0.1)) +
+  #geom_point(data = filter(data, animal_id == "3" & YearFormat == '2023'), position = position_nudge(y = -0.2)) +
   mytheme +
   theme(legend.title = element_blank(), 
         legend.text = element_text(size = 20), 
@@ -323,3 +326,14 @@ data %>%
         legend.key = element_blank()) +
   guides(color = guide_legend(override.aes = list(size = 5))) +
   ggtitle(label = "Animal ID 1")
+
+ppt <- read_pptx("./Exported Data/Figures/dummy/MuskyAbacusID1.pptx")#need to have a powerpoint loaded..need to make one ahead of time for only ggplot objects. base r plots dont need this
+ppt <- ppt %>% ph_with(dml(ggobj=plot3),
+                       location = ph_location_type(type = "body"))
+ppt <- ppt %>%
+  add_slide(layout = "Title and Content", master = "Office Theme") %>%
+  ph_with(value = dml(ggobj = plot3), location = ph_location_fullsize())
+
+## save/download ppt 
+print(ppt, paste0("./Exported Data/Figures/dummy/MuskyAbacusID1.pptx"))
+

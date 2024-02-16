@@ -1,0 +1,84 @@
+﻿GLATOS_ARRAY,OTN_ARRAY,STATION_NO,CONSECUTIVE_DEPLOY_NO,MOORING_DROP_DEAD_DATE,INTEND_LAT,INTEND_LONG,OTN_MISSION_ID,DEPLOY_DATE_TIME,GLATOS_DEPLOY_DATE_TIME,GLATOS_TIMEZONE,DEPLOY_LAT,DEPLOY_LONG,BOTTOM_DEPTH,RISER_LENGTH,INSTRUMENT_DEPTH,CHECWLK_COMPLETE_TIME,STATUS_IN,INS_MODEL_NO,GLATOS_INS_FREQUENCY,INS_SERIAL_NO,RCV_MODEM_ADDRESS,SYNC_DATE_TIME,MEMORY_ERASED_AT_DEPLOY,RCV_BATTERY_INSTALL_DATE,RCV_EXPECTED_BATTERY_LIFE,RCV_VOLTAGE_AT_DEPLOY,RCV_TILT_AFTER_DEPLOY,DEPLOYED_BY,COMMENTS,GLATOS_SEASONAL,GLATOS_PROJECT,GLATOS_VPS
+HOW,,2,9,,,,,,06/09/2023 18:00,Eastern,44.26413,-76.35027,10.5,,,,,VR2W,69,482004,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,4,13,,,,,,06/05/2023 18:00,Eastern,44.12717,-76.81675,20.9,,,,,VR2Tx,69,129985,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,3,14,,,,,,06/05/2023 18:00,Eastern,44.12338,-76.82541,16.1,,,,,VR2Tx,69,486582,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,2,14,,,,,,06/05/2023 18:00,Eastern,44.12044,-76.83555,16.6,,,,,VR2Tx,69,126979,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,1,14,,,,,,06/05/2023 18:00,Eastern,44.11715,-76.84579,15.6,,,,,VR2Tx,69,486585,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MAM,,1,14,,,,,,06/05/2023 18:00,Eastern,44.14568,-76.7985,18,,,,,VR2Tx,69,129986,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MAM,,2,13,,,,,,06/05/2023 18:00,Eastern,44.15208,-76.8018,34.4,,,,,VR2Tx,69,481190,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MAM,,3,14,,,,,,06/05/2023 18:00,Eastern,44.15867,-76.80427,40,,,,,VR2Tx,69,481255,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CNW,,2,14,,,,,,06/05/2023 18:00,Eastern,44.06322,-76.96356,28,,,,,VR2W,69,481252,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CNW,,1,13,,,,,,06/05/2023 18:00,Eastern,44.0583,-76.95671,40,,,,,VR2W,69,126963,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W15-EB10,10,10,,,,,,06/14/2023 18:00,Eastern,44.1488,-76.6016,22,,,,,VR2Tx,69,126960,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W18-ASG1,1,9,,,,,,06/22/2023 18:00,Eastern,44.17992,-76.56762,7,,,,,VR2Tx,69,128983,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W19-ASG2,2,11,,,,,,06/14/2023 18:00,Eastern,44.17937,-76.59478,17,,,,,VR2W,69,481250,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W20-ASG3,3,11,,,,,,06/14/2023 18:00,Eastern,44.1769,-76.54678,12,,,,,VR2Tx,69,482005,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WOL,,1,8,,,,,,06/09/2023 18:00,Eastern,44.17435,-76.49433,12,,,,,VR2Tx,69,482000,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,1,9,,,,,,06/09/2023 18:00,Eastern,44.20247,-76.55375,25.9,,,,,VR2Tx,69,483746,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,2,9,,,,,,06/09/2023 18:00,Eastern,44.19458,-76.54165,9,,,,,VR2Tx,69,481254,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,3,9,,,,,,06/09/2023 18:00,Eastern,44.18637,-76.53053,7,,,,,VR2Tx,69,481257,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W12-EB7,7,9,,,,,,06/16/2023 18:00,Eastern,43.99925,-76.5989,14.9,,,,,VR2W,69,126984,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W16-EB11,11,10,,,,,,06/22/2023 18:00,Eastern,44.04687,-76.5009,12.9,,,,,VR2W,69,126974,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W17-EB12,12,9,,,,,,06/22/2023 18:00,Eastern,44.09737,-76.49053,7,,,,,VR2W,69,126959,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FPT,W1-FPT,1,9,,,,,,06/16/2023 18:00,Eastern,43.9476,-77.0017,11,,,,,VR2Tx,69,126998,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LPT,W2-LPT,1,8,,,,,,06/16/2023 18:00,Eastern,43.95063,-76.8993,28.5,,,,,VR2W,69,482001,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GRI,W3-GRI1,1,9,,,,,,06/16/2023 18:00,Eastern,43.99883,-76.90068,31,,,,,VR2W,69,126958,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GRI,W4-GRI2,2,9,,,,,,06/16/2023 18:00,Eastern,44.01248,-76.92643,10,,,,,VR2W,69,481253,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FDI,W5-FDI,1,9,,,,,,06/16/2023 18:00,Eastern,43.953,-76.79687,21,,,,,VR2Tx,69,126980,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W8-EB3,3,9,,,,,,06/16/2023 18:00,Eastern,43.95007,-76.69948,34.8,,,,,VR2W,69,481187,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+PBY,,1,7,,,,,,06/05/2023 18:00,Eastern,44.00692,-77.68596,4,,,,,VR2Tx,69,126973,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TNT,,1,10,,,,,,05/31/2023 18:00,Eastern,44.09992,-77.57183,2.5,,,,,VR2W,69,126967,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TRR,,1,6,,,,,,05/31/2023 18:00,Eastern,44.10812,-77.58181,2,,,,,VR2W,69,126991,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TNN,,1,12,,,,,,05/31/2023 18:00,Eastern,44.1092,-77.49803,4.4,,,,,VR2Tx,69,126993,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TNN,,2,13,,,,,,05/31/2023 18:00,Eastern,44.11262,-77.50018,5,,,,,VR2W,69,126985,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MPT,,1,14,,,,,,05/31/2023 18:00,Eastern,44.15147,-77.31048,8,,,,,VR2W,69,126972,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MOR,,1,6,,,,,,05/31/2023 18:00,Eastern,44.1586,-77.38483,3.2,,,,,VR2W,69,126995,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TGN,,1,13,,,,,,05/31/2023 18:00,Eastern,44.16413,-77.1243,2.9,,,,,VR2Tx,69,126971,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+DBG,,1,13,,,,,,05/31/2023 18:00,Eastern,44.17297,-77.08905,4.9,,,,,VR2W,69,126990,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LRH,,1,13,,,,,,06/01/2023 18:00,Eastern,44.14018,-77.06402,10,,,,,VR2Tx,69,126996,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HBY,,1,10,,,,,,06/01/2023 18:00,Eastern,44.09485,-77.06233,8.6,,,,,VR2W,69,131934,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HBY,,2,10,,,,,,06/01/2023 18:00,Eastern,44.09965,-77.06342,8,,,,,VR2W,69,482003,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+NPR,,2,8,,,,,,06/01/2023 18:00,Eastern,44.19902,-77.00732,3.2,,,,,VR2Tx,69,126992,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+NPR,,1,8,,,,,,06/01/2023 18:00,Eastern,44.21738,-76.97323,1.2,,,,,VR2Tx,69,483750,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GNR,,1,13,,,,,,06/01/2023 18:00,Eastern,44.04562,-77.06193,14.5,,,,,VR2Tx,69,126961,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GNR,,2,13,,,,,,06/01/2023 18:00,Eastern,44.04877,-77.06053,21,,,,,VR2W,69,126957,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W11-EB6,6,9,,,,,,06/16/2023 18:00,Eastern,44.09818,-76.7034,22,,,,,VR2Tx,69,486581,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W10-EB5,5,9,,,,,,06/16/2023 18:00,Eastern,44.04847,-76.70177,27,,,,,VR2W,69,483751,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W13-EB8,8,9,,,,,,06/16/2023 18:00,Eastern,44.04782,-76.60072,33.5,,,,,VR2W,69,483747,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W14-EB9,9,9,,,,,,06/14/2023 18:00,Eastern,44.09778,-76.60032,33,,,,,VR2W,69,481256,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W6-EB1,1,10,,,,,,06/16/2023 18:00,Eastern,43.99907,-76.80248,32,,,,,VR2Tx,69,482002,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W7-EB2,2,9,,,,,,06/16/2023 18:00,Eastern,44.04937,-76.80135,30,,,,,VR2W,69,126964,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HOW,,1,8,,,,,,06/09/2023 18:00,Eastern,44.24163,-76.33552,8,,,,,VR2W,69,486584,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CPV,W24-CPV1,1,6,,,,,,05/26/2023 18:00,Eastern,44.13025,-76.3573,20,,,,,VR2W,69,128773,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CPV,W25-CPV2,2,6,,,,,,05/26/2023 18:00,Eastern,44.13025,-76.3573,20,,,,,VR2W,69,126975,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LND,W26-LND1,1,6,,,,,,05/26/2023 18:00,Eastern,44.21253,-76.21327,26,,,,,VR2Tx,69,481249,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,10,3,,,,,,10/04/2023 18:00,Eastern,44.23349,-76.26974,12,,,,,VR2AR,69,550336,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,7,3,,,,,,10/04/2023 18:00,Eastern,44.25803,-76.27308,13,,,,,VR2AR,69,550335,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,8,3,,,,,,10/04/2023 18:00,Eastern,44.24966,-76.24442,14,,,,,VR2AR,69,550344,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,11,3,,,,,,10/04/2023 18:00,Eastern,44.23356,-76.2235,7,,,,,VR2AR,69,550349,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,9,3,,,,,,10/04/2023 18:00,Eastern,44.25392,-76.20937,15,,,,,VR2AR,69,548271,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,4,3,,,,,,10/04/2023 18:00,Eastern,44.27368,-76.22503,7,,,,,VR2AR,69,550343,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,5,3,,,,,,10/04/2023 18:00,Eastern,44.27426,-76.18686,18,,,,,VR2AR,69,550334,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EHK,,1,3,,,,,,10/04/2023 18:00,Eastern,44.26053,-76.16472,5,,,,,VR2AR,69,550337,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,6,3,,,,,,10/04/2023 18:00,Eastern,44.28513,-76.15443,37,,,,,VR2AR,69,550345,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,3,3,,,,,,10/04/2023 18:00,Eastern,44.30721,-76.12515,17,,,,,VR2AR,69,550346,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,2,3,,,,,,10/04/2023 18:00,Eastern,44.30207,-76.16269,10,,,,,VR2AR,69,547989,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,1,3,,,,,,10/04/2023 18:00,Eastern,44.29335,-76.19798,4,,,,,VR2AR,69,550341,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,2,3,,,,,,10/04/2023 18:00,Eastern,44.30278,-76.25416,18,,,,,VR2AR,69,548279,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,1,3,,,,,,10/04/2023 18:00,Eastern,44.292,-76.30021,14,,,,,VR2AR,69,550340,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+KNP,,1,3,,,,,,10/04/2023 18:00,Eastern,44.24113,-76.40758,15,,,,,VR2AR,69,550339,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+KNP,,2,3,,,,,,10/04/2023 18:00,Eastern,44.23432,-76.40245,16,,,,,VR2AR,69,550342,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WHK,,1,3,,,,,,10/04/2023 18:00,Eastern,44.25168,-76.18508,9,,,,,VR2AR,69,550347,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WHK,,2,3,,,,,,10/04/2023 18:00,Eastern,44.24292,-76.18576,8,,,,,VR2AR,69,548273,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EHK,,2,3,,,,,,10/04/2023 18:00,Eastern,44.2557,-76.16843,12,,,,,VR2AR,69,548272,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HLD,,1,4,,,,,,10/04/2023 18:00,Eastern,44.2437,-76.2988,25,,,,,VR2AR,69,550348,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HLD,,2,4,,,,,,10/04/2023 18:00,Eastern,44.2362,-76.2945,9,,,,,VR2AR,69,548280,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,3,4,,,,,,10/04/2023 18:00,Eastern,44.3083,-76.2043,13,,,,,VR2AR,69,548285,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W9-EB4,4,8,,,,,,08/14/2023 18:00,Eastern,44.00003,-76.7006,,,,,,VR2W,69,126977,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BVB,,,,,,,,,,,44.14652,-77.38942,,,,,,,,,,,,,,,,,,,,
+BVB,,,,,,,,,,,44.14415,-77.388533,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

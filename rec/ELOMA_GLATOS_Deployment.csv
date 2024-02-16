@@ -1,0 +1,854 @@
+GLATOS_ARRAY,OTN_ARRAY,STATION_NO,CONSECUTIVE_DEPLOY_NO,MOORING_DROP_DEAD_DATE,INTEND_LAT,INTEND_LONG,OTN_MISSION_ID,DEPLOY_DATE_TIME,GLATOS_DEPLOY_DATE_TIME,GLATOS_TIMEZONE,DEPLOY_LAT,DEPLOY_LONG,BOTTOM_DEPTH,RISER_LENGTH,INSTRUMENT_DEPTH,CHECWLK_COMPLETE_TIME,STATUS_IN,INS_MODEL_NO,GLATOS_INS_FREQUENCY,INS_SERIAL_NO,RCV_MODEM_ADDRESS,SYNC_DATE_TIME,MEMORY_ERASED_AT_DEPLOY,RCV_BATTERY_INSTALL_DATE,RCV_EXPECTED_BATTERY_LIFE,RCV_VOLTAGE_AT_DEPLOY,RCV_TILT_AFTER_DEPLOY,DEPLOYED_BY,COMMENTS,GLATOS_SEASONAL,GLATOS_PROJECT,GLATOS_VPS
+BBG,,2,1,,,,,,2015-06-01 10:00,Eastern,44.14700,-77.38817,,,,,,VR2W,69,126998,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MPT,,1,1,,,,,,2015-06-01 10:00,Eastern,44.15067,-77.31517,,,,,,VR2W,69,126974,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TNN,,1,1,,,,,,2015-06-01 10:00,Eastern,44.10900,-77.49817,,,,,,VR2W,69,126982,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TNN,,2,1,,,,,,2015-06-01 10:00,Eastern,44.11283,-77.50000,,,,,,VR2W,69,126983,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+BBG,,1,1,,,,,,2015-06-01 10:10,Eastern,44.14467,-77.38767,,,,,,VR2W,69,126990,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+DBG,,1,1,,,,,,2015-06-02 10:00,Eastern,44.17300,-77.08817,,,,,,VR2W,69,126986,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+GNR,,1,1,,,,,,2015-06-02 10:00,Eastern,44.04600,-77.06233,,,,,,VR2W,69,126989,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+GNR,,2,1,,,,,,2015-06-02 10:00,Eastern,44.04817,-77.05950,,,,,,VR2W,69,126964,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+HBY,,3,1,,,,,,2015-06-02 10:00,Eastern,44.13600,-77.00817,,,,,,VR2W,69,126965,,,,,15 months,,,"Hornsby, R",,Yes,ELOMA,No
+LRH,,1,1,,,,,,2015-06-02 10:00,Eastern,44.14033,-77.06383,,,,,,VR2W,69,126999,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TGN,,1,1,,,,,,2015-06-02 10:00,Eastern,44.16433,-77.12367,,,,,,VR2W,69,126987,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TPT,,1,1,,,,,,2015-06-02 10:00,Eastern,44.08067,-77.08733,,,,,,VR2W,69,126957,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TPT,,2,1,,,,,,2015-06-02 10:00,Eastern,44.07967,-77.08267,,,,,,VR2W,69,126985,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,2,1,,,,,,2015-06-03 10:00,Eastern,44.11967,-76.83583,,,,,,VR2W,69,126976,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,3,1,,,,,,2015-06-03 10:00,Eastern,44.12167,-76.83017,,,,,,VR2W,69,126971,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,4,1,,,,,,2015-06-03 10:00,Eastern,44.12467,-76.82183,,,,,,VR2W,69,126967,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,5,1,,,,,,2015-06-03 10:00,Eastern,44.12650,-76.81517,,,,,,VR2W,69,126973,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,1,1,,,,,,2015-06-03 10:00,Eastern,44.14567,-76.79817,,,,,,VR2W,69,126975,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,2,1,,,,,,2015-06-03 10:00,Eastern,44.14967,-76.80117,,,,,,VR2W,69,126981,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,3,1,,,,,,2015-06-03 10:00,Eastern,44.15517,-76.80500,,,,,,VR2W,69,126968,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,4,1,,,,,,2015-06-03 10:00,Eastern,44.15950,-76.80500,,,,,,VR2W,69,126980,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+BBA,,3,1,,,,,,2015-06-03 10:00,Eastern,44.14941,-77.38303,,,,,,VR2W,69,126963,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,1,1,,,,,,2015-06-03 10:00,Eastern,44.06183,-76.94817,,,,,,VR2W,69,126978,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,2,1,,,,,,2015-06-03 10:00,Eastern,44.06467,-76.95050,,,,,,VR2W,69,126977,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,3,1,,,,,,2015-06-03 10:00,Eastern,44.06833,-76.95217,,,,,,VR2W,69,126962,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,4,1,,,,,,2015-06-03 10:00,Eastern,44.07050,-76.95283,,,,,,VR2W,69,126979,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,1,1,,,,,,2015-06-03 10:00,Eastern,44.11667,-76.84433,,,,,,VR2W,69,126995,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,4,1,,,,,,2015-06-03 10:00,Eastern,44.10217,-76.81533,,,,,,VR2W,69,126994,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,3,1,,,,,,2015-06-04 10:00,Eastern,44.10067,-76.82167,,,,,,VR2W,69,126988,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,1,1,,,,,,2015-06-04 10:00,Eastern,44.09683,-76.83867,,,,,,VR2W,69,126997,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,2,1,,,,,,2015-06-04 10:00,Eastern,44.09900,-76.82933,,,,,,VR2W,69,126970,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,5,1,,,,,,2015-06-04 10:00,Eastern,44.10250,-76.80633,,,,,,VR2W,69,126960,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,6,1,,,,,,2015-06-04 10:00,Eastern,44.10367,-76.79900,,,,,,VR2W,69,126969,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,7,1,,,,,,2015-06-04 10:00,Eastern,44.10467,-76.78800,,,,,,VR2W,69,126958,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MCL,,1,1,,,,,,2015-06-09 10:00,Eastern,44.06117,-77.58033,,,,,,VR2W,69,126956,,,,,15 months,,,"Hornsby, R",,Yes,ELOMA,No
+BBA,,1,1,,,,,,2015-07-23 10:00,Eastern,44.14432,-77.38232,,,,,,VR2W,69,126961,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+BBA,,2,1,,,,,,2015-07-23 10:10,Eastern,44.14672,-77.38347,,,,,,VR2W,69,126966,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,3,1,,,,,,2015-09-03 10:00,Eastern,43.91650,-76.63067,,,,,,VR2W,69,126993,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,4,1,,,,,,2015-09-03 10:00,Eastern,43.91375,-76.61913,,,,,,VR2W,69,126984,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,5,1,,,,,,2015-09-03 10:00,Eastern,43.91073,-76.60740,,,,,,VR2W,69,126992,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,6,1,,,,,,2015-09-03 10:00,Eastern,43.91550,-76.59677,,,,,,VR2W,69,126959,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,1,1,,,,,,2015-09-03 10:00,Eastern,43.92436,-76.64972,,,,,,VR2W,69,126996,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,2,1,,,,,,2015-09-03 10:00,Eastern,43.91767,-76.64230,,,,,,VR2W,69,126991,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+BBG,,1,2,,,,,,2015-10-14 15:10,Eastern,44.14467,-77.38767,,,,,,VR2W,69,126991,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+BBG,,2,2,,,,,,2015-10-14 15:40,Eastern,44.14700,-77.38817,,,,,,VR2W,69,126984,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+GNR,,1,2,,,,,,2015-11-02 10:05,Eastern,44.04567,-77.06183,,,,,,VR2W,69,126990,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+GNR,,2,2,,,,,,2015-11-02 10:10,Eastern,44.04800,-77.05967,,,,,,VR2W,69,126961,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TPT,,1,2,,,,,,2015-11-02 11:05,Eastern,44.08083,-77.08700,,,,,,VR2W,69,126998,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TPT,,2,2,,,,,,2015-11-02 11:05,Eastern,44.07967,-77.08250,,,,,,VR2W,69,126966,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+LRH,,1,2,,,,,,2015-11-02 12:30,Eastern,44.14067,-77.06367,,,,,,VR2W,69,126996,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+DBG,,1,2,,,,,,2015-11-02 13:35,Eastern,44.17317,-77.08817,,,,,,VR2W,69,126992,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TGN,,1,2,,,,,,2015-11-02 14:05,Eastern,44.16450,-77.12350,,,,,,VR2W,69,126959,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MPT,,1,2,,,,,,2015-11-03 09:35,Eastern,44.14508,-77.31450,,,,,,VR2W,69,126993,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+TNN,,2,2,,,,,,2015-11-03 14:00,Eastern,44.11300,-77.49983,,,,,,VR2W,69,126963,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,1,2,,,,,,2015-11-04 09:50,Eastern,44.14567,-76.79833,,,,,,VR2W,69,126985,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,4,2,,,,,,2015-11-04 10:05,Eastern,44.07017,-76.95333,,,,,,VR2W,69,126986,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,3,2,,,,,,2015-11-04 10:35,Eastern,44.06700,-76.95100,,,,,,VR2W,69,126964,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,2,2,,,,,,2015-11-04 11:05,Eastern,44.06417,-76.94950,,,,,,VR2W,69,126965,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,1,2,,,,,,2015-11-04 11:35,Eastern,44.06183,-76.94833,,,,,,VR2W,69,126957,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,2,2,,,,,,2015-11-04 12:35,Eastern,44.14950,-76.80183,,,,,,VR2W,69,126987,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,3,2,,,,,,2015-11-04 13:05,Eastern,44.15483,-76.80283,,,,,,VR2W,69,126989,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,4,2,,,,,,2015-11-04 13:15,Eastern,44.15917,-76.80483,,,,,,VR2W,69,126999,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,3,2,,,,,,2015-11-04 14:05,Eastern,44.12200,-76.83033,,,,,,VR2W,69,126956,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,4,2,,,,,,2015-11-04 14:25,Eastern,44.12500,-76.82217,,,,,,VR2W,69,126983,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,5,2,,,,,,2015-11-04 14:35,Eastern,44.12750,-76.81617,,,,,,VR2W,69,126974,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,1,2,,,,,,2015-11-05 10:05,Eastern,44.11633,-76.84450,,,,,,VR2W,69,126968,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,2,2,,,,,,2015-11-05 10:35,Eastern,44.11967,-76.83617,,,,,,VR2W,69,126977,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,1,2,,,,,,2015-11-05 11:05,Eastern,44.09683,-76.83867,,,,,,VR2W,69,126979,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,2,2,,,,,,2015-11-05 11:35,Eastern,44.09917,-76.82950,,,,,,VR2W,69,126973,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,3,2,,,,,,2015-11-05 12:05,Eastern,44.10100,-76.82167,,,,,,VR2W,69,126980,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,4,2,,,,,,2015-11-05 12:35,Eastern,44.10250,-76.81550,,,,,,VR2W,69,126978,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,5,2,,,,,,2015-11-05 13:05,Eastern,44.10267,-76.80650,,,,,,VR2W,69,126975,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,6,2,,,,,,2015-11-05 13:35,Eastern,44.10417,-76.79933,,,,,,VR2W,69,126967,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+OAM,,7,2,,,,,,2015-11-05 14:05,Eastern,44.10467,-76.78800,,,,,,VR2W,69,126971,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,6,2,,,,,,2016-05-17 10:10,Eastern,43.91550,-76.59677,,,,,,VR2W,69,126970,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,1,2,,,,,,2016-05-17 10:12,Eastern,43.92437,-76.64972,,,,,,VR2W,69,126994,,,,,13 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,2,2,,,,,,2016-05-17 10:30,Eastern,43.91767,-76.64232,,,,,,VR2W,69,126976,,,,,13 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,3,2,,,,,,2016-05-17 10:40,Eastern,43.91650,-76.63067,,,,,,VR2W,69,126960,,,,,13 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,4,2,,,,,,2016-05-17 10:50,Eastern,43.91375,-76.61913,,,,,,VR2W,69,126981,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,5,2,,,,,,2016-05-17 11:00,Eastern,43.91072,-76.60738,,,,,,VR2W,69,126988,,,,,13 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,1,3,,,,,,2016-05-30 12:10,Eastern,44.11650,-76.84467,,,,,,VR2W,69,126972,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,2,3,,,,,,2016-05-30 12:28,Eastern,44.11967,-76.83600,,,,,,VR2W,69,126997,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,3,3,,,,,,2016-05-30 12:40,Eastern,44.12200,-76.82983,,,,,,VR2W,69,126958,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,4,3,,,,,,2016-05-30 12:52,Eastern,44.12483,-76.82183,,,,,,VR2W,69,126969,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+IAM,,5,3,,,,,,2016-05-30 13:05,Eastern,44.12717,-76.81583,,,,,,VR2W,69,126995,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,1,3,,,,,,2016-05-31 09:53,Eastern,44.14567,-76.79833,,,,,,VR2W,69,126978,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,2,3,,,,,,2016-05-31 10:09,Eastern,44.14950,-76.80167,,,,,,VR2W,69,126980,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,3,3,,,,,,2016-05-31 10:43,Eastern,44.15467,-76.80266,,,,,,VR2W,69,126973,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MAM,,4,3,,,,,,2016-05-31 11:00,Eastern,44.15900,-76.80500,,,,,,VR2W,69,126979,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,4,3,,,,,,2016-05-31 11:45,Eastern,44.07167,-76.95350,,,,,,VR2W,69,126977,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,3,3,,,,,,2016-05-31 12:02,Eastern,44.06683,-76.95100,,,,,,VR2W,69,126968,,,,,15 months ,,,"Hornsby, R",,No,ELOMA,No
+CNW,,2,3,,,,,,2016-05-31 12:17,Eastern,44.06417,-76.94933,,,,,,VR2W,69,126956,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+CNW,,1,3,,,,,,2016-05-31 12:37,Eastern,44.06183,-76.94833,,,,,,VR2W,69,126975,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+GNR,,1,3,,,,,,2016-05-31 13:19,Eastern,44.04567,-77.06217,,,,,,VR2W,69,126967,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+GNR,,2,3,,,,,,2016-05-31 13:31,Eastern,44.04817,-77.06000,,,,,,VR2W,69,126971,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+HBY,,3,2,,,,,,2016-06-01 11:00,Eastern,44.13583,-77.00817,,,,,,VR2W,69,126974,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+LRH,,1,3,,,,,,2016-06-01 11:30,Eastern,44.14067,-77.06367,,,,,,VR2W,69,126983,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+DBG,,1,3,,,,,,2016-06-01 11:57,Eastern,44.17300,-77.08817,,,,,,VR2W,69,126986,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+TGN,,1,3,,,,,,2016-06-01 12:40,Eastern,44.16433,-77.12367,,,,,,VR2W,69,126985,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+MPT,,1,3,,,,,,2016-06-02 00:00,Eastern,44.15083,-77.31450,,,,,,VR2W,69,126987,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,1,5,,,,,,2016-06-02 10:05,Eastern,44.14563,-76.79847,,,,,,VR2TX,69,481248,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,2,5,,,,,,2016-06-02 10:15,Eastern,44.14963,-76.80167,,,,,,VR2TX,69,481249,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+MAM,,3,5,,,,,,2016-06-02 10:25,Eastern,44.15495,-76.80288,,,,,,VR2TX,69,481250,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,4,5,,,,,,2016-06-02 10:35,Eastern,44.15867,-76.80473,,,,,,VR2TX,69,481251,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+TNN,,2,3,,,,,,2016-06-02 11:40,Eastern,44.11300,-77.49967,,,,,,VR2W,69,126989,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+MCL,,1,2,,,,,,2016-06-02 12:03,Eastern,44.06117,-77.58017,,,,,,VR2W,69,126957,,,,,15 months,,,"Hornsby, R",,Yes,ELOMA,No
+PBM,,1,1,,,,,,2016-06-02 12:50,Eastern,44.03166,-77.67867,,,,,,VR2W,69,126990,,,,,15 months,,,"Hornsby, R",,Yes,ELOMA,No
+TNN,,1,2,,,,,,2016-06-02 14:01,Eastern,44.10900,-77.49833,,,,,,VR2W,69,126999,,,,,10 months,,,"Hornsby, R",,No,ELOMA,No
+LIN,,1,1,,,,,,2016-07-19 00:00,Eastern,44.18331,-76.54158,,,,,,VR2W,69,126970,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+PRS,,3,1,,,,,,2016-07-19 00:00,Eastern,44.20850,-76.50781,,,,,,VR2W,69,126993,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+PRS,,2,1,,,,,,2016-07-19 09:25,Eastern,44.21031,-76.51258,,,,,,VR2W,69,126991,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+PRS,,1,1,,,,,,2016-07-19 09:38,Eastern,44.20833,-76.51228,,,,,,VR2W,69,126994,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+PRS,,4,1,,,,,,2016-07-19 09:49,Eastern,44.21111,-76.50853,,,,,,VR2W,69,126960,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+LIN,,4,1,,,,,,2016-07-19 11:45,Eastern,44.20628,-76.57975,,,,,,VR2W,69,126988,,,,,15 months ,,,"Hornsby, R",,No,ELOMA,No
+LIN,,3,1,,,,,,2016-07-19 12:06,Eastern,44.19536,-76.57153,,,,,,VR2W,69,126981,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+LIN,,2,1,,,,,,2016-07-19 12:10,Eastern,44.18961,-76.55781,,,,,,VR2W,69,126963,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+WOL,,1,1,,,,,,2016-07-19 12:45,Eastern,44.17444,-76.49439,,,,,,VR2W,69,126982,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+HOW,,1,1,,,,,,2016-07-19 13:19,Eastern,44.24161,-76.33564,,,,,,VR2W,69,126976,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+HOW,,2,1,,,,,,2016-07-19 13:36,Eastern,44.26403,-76.35031,,,,,,VR2W,69,126998,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MPT,,1,4,,,,,,2016-09-01 12:30,Eastern,44.15083,-77.31450,,,,,,VR2W,69,126984,,,,,15 months,,,"Hornsby, R",,No,ELOMA,No
+MDI,,1,3,,,,,,2016-09-06 10:00,Eastern,43.92437,-76.64972,,,,,,VR2W,69,126959,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MDI,,4,3,,,,,,2016-09-06 10:10,Eastern,43.91767,-76.64232,,,,,,VR2W,69,126964,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MDI,,6,3,,,,,,2016-09-06 10:20,Eastern,43.91650,-76.63067,,,,,,VR2W,69,126966,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MDI,,2,3,,,,,,2016-09-06 10:30,Eastern,43.91072,-76.60738,,,,,,VR2W,69,126992,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MDI,,3,3,,,,,,2016-09-06 10:40,Eastern,43.91550,-76.59677,,,,,,VR2W,69,126996,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MDI,,5,3,,,,,,2016-09-06 10:50,Eastern,43.91375,-76.61913,,,,,,VR2W,69,126987,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,4,4,,,,,,2016-11-14 11:30,Eastern,44.06160,-76.94815,,,,,,VR2W,69,126962,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,2,4,,,,,,2016-11-14 12:30,Eastern,44.06670,-76.95107,,,,,,VR2W,69,126963,,,,,11.5 months,,,"Rupnik, A",,No,ELOMA,No
+GNR,,2,4,,,,,,2016-11-14 13:12,Eastern,44.04817,-77.06000,,,,,,VR2W,69,126992,,,,,13 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,1,4,,,,,,2016-11-14 13:30,Eastern,44.07018,-76.95340,,,,,,VR2W,69,126966,,,,,13 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,3,4,,,,,,2016-11-14 13:40,Eastern,44.06398,-76.94945,,,,,,VR2W,69,126996,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+GNR,,1,4,,,,,,2016-11-14 15:00,Eastern,44.04568,-77.06193,,,,,,VR2W,69,126964,,,,,13 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,1,4,,,,,,2016-11-15 12:12,Eastern,44.11662,-76.84462,,,,,,VR2W,69,126993,,,,,11.5 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,2,4,,,,,,2016-11-15 12:20,Eastern,44.11967,-76.83598,,,,,,VR2W,69,126987,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,5,4,,,,,,2016-11-15 12:30,Eastern,44.12748,-76.81623,,,,,,VR2W,69,126959,,,,,13 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,2,4,,,,,,2016-11-15 12:40,Eastern,44.14967,-76.80170,,,,,,VR2W,69,126960,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,1,4,,,,,,2016-11-15 12:50,Eastern,44.14558,-76.79843,,,,,,VR2W,69,126965,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,4,4,,,,,,2016-11-15 13:00,Eastern,44.15868,-76.80477,,,,,,VR2W,69,126981,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,3,4,,,,,,2016-11-15 13:10,Eastern,44.15495,-76.80283,,,,,,VR2W,69,126988,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MPT,,1,5,,,,,,2016-11-16 10:00,Eastern,44.15058,-77.31507,,,,,,VR2W,69,126968,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+TNN,,2,4,,,,,,2016-11-16 14:30,Eastern,44.11282,-77.50032,,,,,,VR2W,69,126975,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+TNN,,1,3,,,,,,2016-11-16 15:40,Eastern,44.15058,-77.31507,,,,,,VR2W,69,126967,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+DBG,,1,4,,,,,,2016-11-17 11:10,Eastern,44.17300,-77.08907,,,,,,VR2W,69,126977,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+HBY,,1,1,,,,,,2016-11-17 11:16,Eastern,44.09492,-77.06240,,,,,,VR2W,69,126973,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+LRH,,1,4,,,,,,2016-11-17 11:20,Eastern,44.14018,-77.06405,,,,,,VR2W,69,126971,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+HBY,,2,1,,,,,,2016-11-17 11:23,Eastern,44.09967,-77.06345,,,,,,VR2W,69,126989,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+TGN,,1,4,,,,,,2016-11-17 23:40,Eastern,44.16433,-77.12367,,,,,,VR2W,69,126956,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,3,4,,,,,,2016-11-18 12:00,Eastern,44.12152,-76.82940,,,,,,VR2W,69,126991,,,,,11.5 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,4,4,,,,,,2016-11-18 12:30,Eastern,44.12463,-76.82145,,,,,,VR2W,69,126961,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+EAB,W7-EB2,2,1,,,,,,2017-04-18 00:00,Eastern,44.04938,-76.80128,,,,,,VR2W,69,126984,,,,,15 months,,,"Rupnik, A",W7-EB2,No,ELOMA,No
+GRI,W3-GRI1,1,1,,,,,,2017-04-18 00:10,Eastern,43.99882,-76.90075,,,,,,VR2W,69,126994,,,,,15 months,,,"Rupnik, A",W3-GRI1,No,ELOMA,No
+EAB,W9-EB4,4,1,,,,,,2017-04-18 00:20,Eastern,44.00005,-76.70058,,,,,,VR2W,69,126995,,,,,15 months,,,"Rupnik, A",W9-EB4,No,ELOMA,No
+FPT,W1-FPT,1,1,,,,,,2017-04-18 00:30,Eastern,43.94758,-77.00172,,,,,,VR2W,69,126997,,,,,15 months,,,"Rupnik, A",W1-FPT,No,ELOMA,No
+FDI,W5-FDI,1,1,,,,,,2017-04-18 11:00,Eastern,43.95308,-76.79748,,,,,,VR2W,69,126958,,,,,15 months,,,"Rupnik, A",W5-FDI,No,ELOMA,No
+EAB,W6-EB1,1,1,,,,,,2017-04-18 11:10,Eastern,43.99908,-76.80248,,,,,,VR2W,69,126969,,,,,15 months,,,"Rupnik, A",W6-EB1,No,ELOMA,No
+LPT,W2-LPT,1,1,,,,,,2017-04-18 11:20,Eastern,43.95107,-76.89905,,,,,,VR2W,69,126970,,,,,15 months,,,"Rupnik, A",W2-LPT,No,ELOMA,No
+EAB,W8-EB3,3,1,,,,,,2017-04-18 11:30,Eastern,43.95005,-76.69935,,,,,,VR2W,69,126972,,,,,15 months,,,"Rupnik, A",W8-EB3,No,ELOMA,No
+GRI,W4-GRI2,2,1,,,,,,2017-04-18 11:40,Eastern,44.01247,-76.92640,,,,,,VR2W,69,126976,,,,,15 months,,,"Rupnik, A",W4-GRI2,No,ELOMA,No
+EAB,W10-EB5,5,1,,,,,,2017-04-18 11:50,Eastern,44.04845,-76.70178,,,,,,VR2W,69,126982,,,,,11.5 months,,,"Rupnik, A",W10-EB5,No,ELOMA,No
+EAB,W15-EB10,10,1,,,,,,2017-04-20 11:00,Eastern,44.14882,-76.60165,,,,,,VR2W,69,126983,,,,,15 months,,,"Rupnik, A",W15-EB10,No,ELOMA,No
+EAB,W17-EB12,12,1,,,,,,2017-04-20 11:00,Eastern,44.09790,-76.50190,,,,,,VR2W,69,126980,,,,,15 months,,,"Rupnik, A",W17-EB12,Yes,ELOMA,No
+ASG,W18-ASG1,1,1,,,,,,2017-04-20 11:00,Eastern,44.17883,-76.57083,,,,,,VR2W,69,126957,,,,,15 months,,,"Rupnik, A",W18-ASG1,Yes,ELOMA,No
+ASG,W19-ASG2,2,1,,,,,,2017-04-20 11:00,Eastern,44.17937,-76.59482,,,,,,VR2W,69,126978,,,,,15 months,,,"Rupnik, A",W19-ASG2,No,ELOMA,No
+ASG,W20-ASG3,3,1,,,,,,2017-04-20 11:00,Eastern,44.17690,-76.54678,,,,,,VR2W,69,126979,,,,,15 months,,,"Rupnik, A",W20-ASG3,No,ELOMA,No
+EAB,W14-EB9,9,1,,,,,,2017-04-24 09:00,Eastern,44.09785,-76.60027,,,,,,VR2W,69,126965,,,,,15 months,,,"Rupnik, A",W14-EB9,No,ELOMA,No
+EAB,W16-EB11,11,1,,,,,,2017-04-24 09:30,Eastern,44.04692,-76.50087,,,,,,VR2W,69,126974,,,,,15 months,,,"Rupnik, A",W16-EB11,No,ELOMA,No
+EAB,W12-EB7,7,1,,,,,,2017-04-24 10:00,Eastern,43.99927,-76.60045,,,,,,VR2W,69,126985,,,,,15 months,,,"Rupnik, A",W12-EB7,No,ELOMA,No
+EAB,W13-EB8,8,1,,,,,,2017-04-24 10:30,Eastern,44.04782,-76.60060,,,,,,VR2W,69,126986,,,,,15 months,,,"Rupnik, A",W13-EB8,No,ELOMA,No
+EAB,W11-EB6,6,1,,,,,,2017-04-24 11:00,Eastern,44.09818,-76.70342,,,,,,VR2W,69,126998,,,,,11.5 months,,,"Rupnik, A",W11-EB6,No,ELOMA,No
+MCL,,1,3,,,,,,2017-05-19 10:00,Eastern,44.06112,-77.58027,,,,,,VR2W,69,126999,,,,,10 months,,,Queen's,,Yes,ELOMA,No
+TNT,,1,1,,,,,,2017-05-19 11:00,Eastern,44.09992,-77.57183,,,,,,VR2W,69,126990,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,1,5,,,,,,2017-05-30 10:05,Eastern,44.06153,-76.94817,,,,,,VR2TX,69,481185,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,2,5,,,,,,2017-05-30 10:15,Eastern,44.06397,-76.94947,,,,,,VR2TX,69,481186,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+CNW,,3,5,,,,,,2017-05-30 10:25,Eastern,44.06662,-76.95107,,,,,,VR2TX,69,481190,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,4,5,,,,,,2017-05-30 10:35,Eastern,44.07017,-76.95338,,,,,,VR2TX,69,481189,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+GNR,,1,5,,,,,,2017-05-30 14:05,Eastern,44.04562,-77.06193,,,,,,VR2TX,69,481188,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+GNR,,2,5,,,,,,2017-05-30 14:15,Eastern,44.04880,-77.06050,,,,,,VR2TX,69,481187,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+LRH,,1,5,,,,,,2017-05-31 11:30,Eastern,44.14018,-77.06410,,,,,,VR2W,69,126996,,,,,8 months,,,"Rupnik, A",,No,ELOMA,No
+HBY,,1,2,,,,,,2017-05-31 13:05,Eastern,44.09488,-77.06240,,,,,,VR2W,69,126964,,,,,6 months,,,"Rupnik, A",,No,ELOMA,No
+DBG,,1,5,,,,,,2017-05-31 13:10,Eastern,44.17293,-77.08903,,,,,,VR2TX,69,481252,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+HBY,,2,2,,,,,,2017-05-31 13:20,Eastern,44.09967,-77.06338,,,,,,VR2W,69,126992,,,,,6 months,,,"Rupnik, A",,No,ELOMA,No
+MPT,,1,6,,,,,,2017-06-01 10:00,Eastern,44.15065,-77.31497,,,,,,VR2W,69,126966,,,,,6 months,,,"Bonsall, A",,No,ELOMA,No
+TNN,,2,5,,,,,,2017-06-01 10:25,Eastern,44.11258,-77.50025,,,,,,VR2W,69,126973,,,,,9.5 months,,,"Bonsall, A",,No,ELOMA,No
+TNN,,1,4,,,,,,2017-06-01 10:30,Eastern,44.10920,-77.49805,,,,,,VR2W,69,126977,,,,,10 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,1,5,,,,,,2017-06-02 00:05,Eastern,44.11663,-76.84450,,,,,,VR2TX,69,481253,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,5,5,,,,,,2017-06-02 00:10,Eastern,44.12725,-76.81668,,,,,,VR2TX,69,481257,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,2,5,,,,,,2017-06-02 00:15,Eastern,44.11967,-76.83588,,,,,,VR2TX,69,481254,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,3,5,,,,,,2017-06-02 00:35,Eastern,44.12183,-76.82952,,,,,,VR2TX,69,481255,,,,,14 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,4,5,,,,,,2017-06-02 00:55,Eastern,44.12485,-76.82150,,,,,,VR2TX,69,481256,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+PBM,,1,2,,,,,,2017-06-05 10:00,Eastern,44.03082,-77.68075,,,,,,VR2W,69,131935,,,,,15 months,,,OMNRF,,Yes,ELOMA,No
+TGN,,1,5,,,,,,2017-06-08 12:04,Eastern,44.16413,-77.12428,,,,,,VR2W,69,126987,,,,,10 months,,,"Bonsall, A",,No,ELOMA,No
+MDI,,1,4,,,,,,2017-06-27 10:00,Eastern,43.92436,-76.64972,,,,,,VR2W,69,126981,,,,,8 months,,,"Elliot, C",,No,ELOMA,No
+MDI,,2,4,,,,,,2017-06-27 10:10,Eastern,43.91767,-76.64230,,,,,,VR2W,69,126975,,,,,10 months,,,"Elliot, C",,No,ELOMA,No
+MDI,,3,4,,,,,,2017-06-27 10:20,Eastern,43.91650,-76.63067,,,,,,VR2W,69,126960,,,,,8 months,,,"Elliot, C",,No,ELOMA,No
+MDI,,4,4,,,,,,2017-06-27 10:30,Eastern,43.91375,-76.61913,,,,,,VR2W,69,126989,,,,,10 months,,,"Elliot, C",,No,ELOMA,No
+MDI,,5,4,,,,,,2017-06-27 10:40,Eastern,43.91073,-76.60740,,,,,,VR2W,69,126961,,,,,8 months,,,"Elliot, C",,No,ELOMA,No
+MDI,,6,4,,,,,,2017-06-27 10:50,Eastern,43.91550,-76.59677,,,,,,VR2W,69,126956,,,,,8 months,,,"Elliot, C",,No,ELOMA,No
+FDI,W5-FDI,1,2,,,,,,2017-10-23 11:00,Eastern,43.95292,-76.79683,,,,,,VR2W,69,126961,,,,,15 months,,,"Rupnik, A",W5-FDI,No,ELOMA,No
+EAB,W6-EB1,1,2,,,,,,2017-10-23 12:00,Eastern,43.99892,-76.80220,,,,,,VR2W,69,126962,,,,,9 months,,,"Rupnik, A",W6-EB1,No,ELOMA,No
+GRI,W4-GRI2,2,2,,,,,,2017-10-23 13:10,Eastern,44.01247,-76.92642,,,,,,VR2W,69,126956,,,,,15 months,,,"Rupnik, A",W4-GRI2,No,ELOMA,No
+GRI,W3-GRI1,1,2,,,,,,2017-10-23 14:00,Eastern,43.99823,-76.90055,,,,,,VR2W,69,126967,,,,,10 months,,,"Rupnik, A",W3-GRI1,No,ELOMA,No
+FPT,W1-FPT,1,2,,,,,,2017-10-23 15:00,Eastern,43.94743,-77.00173,,,,,,VR2W,69,126959,,,,,13 months,,,"Rupnik, A",W1-FPT,No,ELOMA,No
+LRH,,1,6,,,,,,2017-10-24 00:11,Eastern,44.14018,-77.06410,,,,,,VR2W,69,126969,,,,,8.75 months,,,"Rupnik, A",,No,ELOMA,No
+HBY,,1,3,,,,,,2017-10-24 08:50,Eastern,44.09488,-77.06240,,,,,,VR2W,69,126997,,,,,8.75 months,,,"Rupnik, A",,No,ELOMA,No
+HBY,,2,3,,,,,,2017-10-24 09:10,Eastern,44.09967,-77.06338,,,,,,VR2W,69,126958,,,,,11 months,,,"Rupnik, A",,No,ELOMA,No
+TGN,,1,6,,,,,,2017-10-24 10:10,Eastern,44.16413,-77.12428,,,,,,VR2W,69,126994,,,,,8.75 months,,,"Rupnik, A",,No,ELOMA,No
+GNR,,1,6,,,,,,2017-10-24 13:35,Eastern,44.04562,-77.06193,,,,,,VR2W,69,126989,,,,,8 months,,,"Rupnik, A",,No,ELOMA,No
+GNR,,2,6,,,,,,2017-10-24 13:45,Eastern,44.04880,-77.06050,,,,,,VR2W,69,126975,,,,,8 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,1,6,,,,,,2017-10-25 10:15,Eastern,44.06153,-76.94810,,,,,,VR2W,69,126988,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,2,6,,,,,,2017-10-25 10:25,Eastern,44.06397,-76.94945,,,,,,VR2W,69,126968,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,3,6,,,,,,2017-10-25 10:35,Eastern,44.06660,-76.95100,,,,,,VR2W,69,126981,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+CNW,,4,6,,,,,,2017-10-25 10:45,Eastern,44.07018,-76.95337,,,,,,VR2W,69,126963,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+DBG,,1,6,,,,,,2017-10-25 13:00,Eastern,44.17297,-77.08913,,,,,,VR2W,69,126960,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+EAB,W8-EB3,3,2,,,,,,2017-10-26 11:00,Eastern,43.95015,-76.69918,,,,,,VR2Tx,69,481185,,,,,9 months,,,"Rupnik, A",W8-EB3,No,ELOMA,No
+EAB,W7-EB2,2,2,,,,,,2017-10-26 14:00,Eastern,44.04907,-76.80321,,,,,,VR2Tx,69,481189,,,,,9 months,,,"Rupnik, A",W7-EB2,No,ELOMA,No
+EAB,W12-EB7,7,2,,,,,,2017-10-26 14:10,Eastern,43.99928,-76.59877,,,,,,VR2W,69,126996,,,,,15 months,,,"Rupnik, A",W12-EB7,No,ELOMA,No
+EAB,W9-EB4,4,2,,,,,,2017-10-26 14:15,Eastern,44.00005,-76.70060,,,,,,VR2Tx,69,481186,,,,,9 months,,,"Rupnik, A",W9-EB4,No,ELOMA,No
+EAB,W11-EB6,6,2,,,,,,2017-10-26 15:00,Eastern,44.09817,-76.70345,,,,,,VR2W,69,126987,,,,,15 months,,,"Rupnik, A",W11-EB6,No,ELOMA,No
+TNN,,1,5,,,,,,2017-11-01 10:25,Eastern,44.10915,-77.50029,,,,,,VR2W,69,126995,,,,,10 months,,,"Rupnik, A",,No,ELOMA,No
+TNN,,2,6,,,,,,2017-11-01 10:35,Eastern,44.11260,-77.50030,,,,,,VR2W,69,126964,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,1,6,,,,,,2017-11-03 09:05,Eastern,44.14563,-76.79847,,,,,,VR2W,69,126985,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,2,6,,,,,,2017-11-03 09:15,Eastern,44.14963,-76.80167,,,,,,VR2W,69,126984,,,,,8.5 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,3,6,,,,,,2017-11-03 09:25,Eastern,44.15495,-76.80288,,,,,,VR2Tx,69,481190,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+MAM,,4,6,,,,,,2017-11-03 09:35,Eastern,44.15867,-76.80473,,,,,,VR2W,69,126992,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,1,6,,,,,,2017-11-03 10:05,Eastern,44.11662,-76.84447,,,,,,VR2Tx,69,481187,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,2,6,,,,,,2017-11-03 10:25,Eastern,44.11967,-76.83588,,,,,,VR2Tx,69,481188,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,3,6,,,,,,2017-11-03 10:40,Eastern,44.12180,-76.82948,,,,,,VR2W,69,126976,,,,,8.75 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,4,6,,,,,,2017-11-03 10:50,Eastern,44.12485,-76.82145,,,,,,VR2Tx,69,481252,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+IAM,,5,6,,,,,,2017-11-03 11:00,Eastern,44.12718,-76.81670,,,,,,VR2W,69,131934,,,,,15 months,,,"Rupnik, A",,No,ELOMA,No
+EAB,W14-EB9,9,2,,,,,,2017-11-07 11:00,Eastern,44.09787,-76.60027,,,,,,VR2Tx,69,481256,,,,,9 months,,,"Rupnik, A",W14-EB9,No,ELOMA,No
+EAB,W16-EB11,11,2,,,,,,2017-11-07 11:00,Eastern,44.04692,-76.50087,,,,,,VR2Tx,69,481250,,,,,9 months,,,"Rupnik, A",W16-EB11,No,ELOMA,No
+ASG,W19-ASG2,2,2,,,,,,2017-11-07 13:20,Eastern,44.17940,-76.59478,,,,,,VR2Tx,69,481255,,,,,9 months,,,"Rupnik, A",W19-ASG2,No,ELOMA,No
+ASG,W20-ASG3,3,2,,,,,,2017-11-07 13:25,Eastern,44.17692,-76.54675,,,,,,VR2Tx,69,481251,,,,,9 months,,,"Rupnik, A",W20-ASG3,No,ELOMA,No
+EAB,W10-EB5,5,2,,,,,,2017-11-07 13:30,Eastern,44.04845,-76.70175,,,,,,VR2Tx,69,481248,,,,,9 months,,,"Rupnik, A",W10-EB5,No,ELOMA,No
+EAB,W15-EB10,10,2,,,,,,2017-11-07 13:35,Eastern,44.14882,-76.60163,,,,,,VR2Tx,69,481257,,,,,9 months,,,"Rupnik, A",W15-EB10,No,ELOMA,No
+EAB,W13-EB8,8,2,,,,,,2017-11-07 14:25,Eastern,44.04787,-76.60072,,,,,,VR2Tx,69,481254,,,,,9 months,,,"Rupnik, A",W13-EB8,No,ELOMA,No
+MPT,,1,7,,,,,,2017-11-08 12:30,Eastern,44.15152,-77.31045,,,,,,VR2Tx,69,481249,,,,,9 months,,,"Rupnik, A",,No,ELOMA,No
+NPR,,1,1,,,,,,2018-03-26 08:00,Eastern,44.21738,-76.97323,,,,,,VR2Tx,69,481253,,,,,9 months,,,"Bonsall, A",,Yes,ELOMA,No
+NPR,,2,1,,,,,,2018-03-26 08:00,Eastern,44.19902,-77.00732,,,,,,VR2W,69,126970,,,,,6 months,,,"Bonsall, A",,Yes,ELOMA,No
+NPR,,3,1,,,,,,2018-03-26 08:00,Eastern,44.21587,-76.97657,,,,,,VR2W,69,126977,,,,,5 months,,,"Bonsall, A",,Yes,ELOMA,No
+TNT,,1,2,,,,,,2018-03-29 08:00,Eastern,44.09992,-77.57183,,,,,,VR2W,69,126986,,,,,8.5 months,,,"Bonsall, A",,Yes,ELOMA,No
+MCL,,1,4,,,,,,2018-04-05 08:00,Eastern,44.06105,-77.58023,,,,,,VR2W,69,126972,,,,,8.5 months,,,"Bonsall, A",,Yes,ELOMA,No
+PBM,,1,3,,,,,,2018-04-05 08:00,Eastern,44.03078,-77.68077,,,,,,VR2W,69,126965,,,,,8.5 months,,,"Bonsall, A",,Yes,ELOMA,No
+EAB,W17-EB12,12,2,,,,,,2018-04-13 00:00,Eastern,44.09790,-76.50202,,,,,,VR2W,69,126982,,,,,8.5 months,,,"Bonsall, A",W17-EB12,Yes,ELOMA,No
+ASG,W18-ASG1,1,2,,,,,,2018-04-13 00:00,Eastern,44.17878,-76.57085,,,,,,VR2W,69,126978,,,,,8.5 months,,,"Bonsall, A",W18-ASG1,Yes,ELOMA,No
+LPL,W21-LPL1,1,1,,,,,,2018-04-23 00:00,Eastern,43.91940,-76.88638,,,,,,VR2W,69,131935,,,,,9 months,,,"Bonsall, A",W21-LPL1,No,ELOMA,No
+LPL,W22-LPL2,2,1,,,,,,2018-04-23 00:00,Eastern,43.91440,-76.87612,,,,,,VR2W,69,126979,,,,,8.5 months,,,"Bonsall, A",W22-LPL2,No,ELOMA,No
+LPL,W23-LPL3,3,1,,,,,,2018-04-23 00:00,Eastern,43.91125,-76.86478,,,,,,VR2W,69,126957,,,,,8.5 months,,,"Bonsall, A",W23-LPL3,No,ELOMA,No
+LPT,W2-LPT,1,2,,,,,,2018-04-23 00:00,Eastern,43.95063,-76.89930,,,,,,VR2W,69,126983,,,,,8.5 months,,,"Bonsall, A",W2-LPT,No,ELOMA,No
+LIN,,1,2,,,,,,2018-04-27 00:00,Eastern,44.20305,-76.55603,,,,,,VR2W,69,126966,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+LIN,,2,2,,,,,,2018-04-27 00:00,Eastern,44.19630,-76.54733,,,,,,VR2W,69,126990,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+LIN,,3,2,,,,,,2018-04-27 00:00,Eastern,44.18750,-76.53335,,,,,,VR2W,69,126991,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+HOW,,1,2,,,,,,2018-04-27 00:00,Eastern,44.24163,-76.33552,,,,,,VR2W,69,126980,,,,,8.5 months,,,"Bonsall, A",,No,ELOMA,No
+HOW,,2,2,,,,,,2018-04-27 00:00,Eastern,44.26413,-76.35027,,,,,,VR2W,69,126974,,,,,8.5 months,,,"Bonsall, A",,No,ELOMA,No
+WOL,,1,2,,,,,,2018-04-27 00:00,Eastern,44.17435,-76.49433,,,,,,VR2W,69,126971,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+CNW,,1,7,,,,,,2018-05-28 10:45,Eastern,44.06155,-76.94815,,,,,,VR2W,69,126993,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+CNW,,2,7,,,,,,2018-05-28 11:15,Eastern,44.06402,-76.94948,,,,,,VR2W,69,126973,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+CNW,,3,7,,,,,,2018-05-28 11:30,Eastern,44.06665,-76.95110,,,,,,VR2Tx,69,482004,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+CNW,,4,7,,,,,,2018-05-28 11:50,Eastern,44.07018,-76.95340,,,,,,VR2W,69,126999,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+GNR,,1,7,,,,,,2018-05-28 12:35,Eastern,44.04562,-77.06193,,,,,,VR2Tx,69,482001,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+GNR,,2,7,,,,,,2018-05-28 13:10,Eastern,44.04877,-77.06053,,,,,,VR2W,69,126998,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+EAB,W12-EB7,7,3,,,,,,2018-05-29 11:05,Eastern,43.99925,-76.59890,,,,,,VR2W,69,126989,,,,,15 months,,,"Bonsall, A",W12-EB7,No,ELOMA,No
+EAB,W16-EB11,11,3,,,,,,2018-05-29 11:45,Eastern,44.04687,-76.50090,,,,,,VR2W,69,126988,,,,,8 months,,,"Bonsall, A",W16-EB11,No,ELOMA,No
+EAB,W13-EB8,8,3,,,,,,2018-05-29 12:10,Eastern,44.04782,-76.60072,,,,,,VR2W,69,126963,,,,,15 months,,,"Bonsall, A",W13-EB8,No,ELOMA,No
+EAB,W14-EB9,9,3,,,,,,2018-05-29 13:00,Eastern,44.09778,-76.60032,,,,,,VR2W,69,126975,,,,,15 months,,,"Bonsall, A",W14-EB9,No,ELOMA,No
+EAB,W15-EB10,10,3,,,,,,2018-05-29 13:25,Eastern,44.14880,-76.60160,,,,,,VR2W,69,126981,,,,,8 months,,,"Bonsall, A",W15-EB10,No,ELOMA,No
+ASG,W19-ASG2,2,3,,,,,,2018-05-29 14:00,Eastern,44.17937,-76.59478,,,,,,VR2Tx,69,482005,,,,,14 months,,,"Bonsall, A",W19-ASG2,No,ELOMA,No
+ASG,W20-ASG3,3,3,,,,,,2018-05-29 14:15,Eastern,44.17690,-76.54678,,,,,,VR2Tx,69,482003,,,,,14 months,,,"Bonsall, A",W20-ASG3,No,ELOMA,No
+EAB,W7-EB2,2,3,,,,,,2018-05-30 10:00,Eastern,44.04937,-76.80135,,,,,,VR2Tx,69,481254,,,,,14 months,,,"Bonsall, A",W7-EB2,No,ELOMA,No
+EAB,W11-EB6,6,3,,,,,,2018-05-30 10:13,Eastern,44.09818,-76.70340,,,,,,VR2Tx,69,481251,,,,,14 months,,,"Bonsall, A",W11-EB6,No,ELOMA,No
+EAB,W10-EB5,5,3,,,,,,2018-05-30 11:14,Eastern,44.04847,-76.70177,,,,,,VR2W,69,126996,,,,,8 months,,,"Bonsall, A",W10-EB5,No,ELOMA,No
+EAB,W9-EB4,4,3,,,,,,2018-05-30 11:58,Eastern,44.00003,-76.70060,,,,,,VR2Tx,69,481256,,,,,14 months,,,"Bonsall, A",W9-EB4,No,ELOMA,No
+EAB,W8-EB3,3,3,,,,,,2018-05-30 13:05,Eastern,43.95007,-76.69948,,,,,,VR2Tx,69,481255,,,,,14 months,,,"Bonsall, A",W8-EB3,No,ELOMA,No
+FDI,W5-FDI,1,3,,,,,,2018-05-30 13:35,Eastern,43.95300,-76.79687,,,,,,VR2Tx,69,481257,,,,,14 months,,,"Bonsall, A",W5-FDI,No,ELOMA,No
+EAB,W6-EB1,1,3,,,,,,2018-05-30 13:57,Eastern,43.99907,-76.80248,,,,,,VR2Tx,69,481250,,,,,14 months,,,"Bonsall, A",W6-EB1,No,ELOMA,No
+MPT,,1,8,,,,,,2018-05-31 10:25,Eastern,44.15147,-77.31048,,,,,,VR2Tx,69,481185,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+TNN,,1,6,,,,,,2018-05-31 10:58,Eastern,44.10920,-77.49803,,,,,,VR2Tx,69,481189,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+TNN,,2,7,,,,,,2018-05-31 11:11,Eastern,44.11262,-77.50018,,,,,,VR2Tx,69,481248,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+TNT,,1,3,,,,,,2018-05-31 11:32,Eastern,44.09992,-77.57183,,,,,,VR2Tx,69,481186,,,,,14 months,,,"Bonsall, A",,Yes,ELOMA,No
+MAM,,4,7,,,,,,2018-06-01 09:50,Eastern,44.15867,-76.80427,,,,,,VR2W,69,126986,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+MAM,,3,7,,,,,,2018-06-01 10:30,Eastern,44.15492,-76.80288,,,,,,VR2W,69,126964,,,,,8 months,,,"Bonsall, A",,No,ELOMA,No
+MAM,,2,7,,,,,,2018-06-01 10:55,Eastern,44.14955,-76.80163,,,,,,VR2W,69,126995,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+MAM,,1,7,,,,,,2018-06-01 11:10,Eastern,44.14568,-76.79850,,,,,,VR2Tx,69,481249,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,5,7,,,,,,2018-06-01 11:40,Eastern,44.12717,-76.81675,,,,,,VR2W,69,126962,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,4,7,,,,,,2018-06-01 11:50,Eastern,44.12477,-76.82137,,,,,,VR2W,69,126977,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,3,7,,,,,,2018-06-01 12:25,Eastern,44.12178,-76.82943,,,,,,VR2W,69,126961,,,,,8 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,2,7,,,,,,2018-06-01 12:40,Eastern,44.11965,-76.83592,,,,,,VR2W,69,126987,,,,,8 months,,,"Bonsall, A",,No,ELOMA,No
+IAM,,1,7,,,,,,2018-06-01 12:55,Eastern,44.11663,-76.84448,,,,,,VR2W,69,126968,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+TGN,,1,7,,,,,,2018-06-04 10:45,Eastern,44.16413,-77.12430,,,,,,VR2W,69,126976,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+DBG,,1,7,,,,,,2018-06-04 11:10,Eastern,44.17297,-77.08905,,,,,,VR2W,69,126992,,,,,8 months,,,"Bonsall, A",,No,ELOMA,No
+LRH,,1,7,,,,,,2018-06-04 11:32,Eastern,44.14018,-77.06402,,,,,,VR2Tx,69,481187,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+HBY,,2,4,,,,,,2018-06-04 12:10,Eastern,44.09965,-77.06342,,,,,,VR2W,69,126985,,,,,15 months,,,"Bonsall, A",,No,ELOMA,No
+HBY,,1,4,,,,,,2018-06-04 12:20,Eastern,44.09485,-77.06233,,,,,,VR2Tx,69,481188,,,,,14 months,,,"Bonsall, A",,No,ELOMA,No
+GRI,W4-GRI2,2,3,,,,,,2018-06-05 10:53,Eastern,44.01248,-76.92643,,,,,,VR2W,69,131934,,,,,8 months,,,"Bonsall, A",W4-GRI2,No,ELOMA,No
+GRI,W3-GRI1,1,3,,,,,,2018-06-05 11:19,Eastern,43.99883,-76.90068,,,,,,VR2Tx,69,481190,,,,,14 months,,,"Bonsall, A",W3-GRI1,No,ELOMA,No
+FPT,W1-FPT,1,3,,,,,,2018-06-05 11:44,Eastern,43.94760,-77.00170,,,,,,VR2W,69,126984,,,,,15 months,,,"Bonsall, A",W1-FPT,No,ELOMA,No
+PBM,,1,4,,,,,,2018-06-06 10:20,Eastern,44.03078,-77.68073,,,,,,VR2W,69,126956,,,,,8 months,,,"Bonsall, A",,Yes,ELOMA,No
+MCL,,1,5,,,,,,2018-06-06 11:20,Eastern,44.06107,-77.58025,,,,,,VR2W,69,126960,,,,,8 months,,,"Bonsall, A",,Yes,ELOMA,No
+NPR,,1,2,,,,,,2018-06-06 13:31,Eastern,44.21735,-76.97327,,,,,,VR2W,69,126967,,,,,5 months,,,"Bonsall, A",,Yes,ELOMA,No
+NPR,,2,2,,,,,,2018-06-06 14:00,Eastern,44.19907,-77.00728,,,,,,VR2W,69,126959,,,,,6 months,,,"Bonsall, A",,Yes,ELOMA,No
+MDI,,1,5,,,,,,2018-06-08 00:00,Eastern,43.92437,-76.64972,,,,,,VR2Tx,69,481253,,,,,6 months,,,"Bonsall, A",,Yes,ELOMA,No
+MDI,,2,5,,,,,,2018-06-08 00:00,Eastern,43.91767,-76.64232,,,,,,VR2W,69,126958,,,,,6 months,,,"Bonsall, A",,Yes,ELOMA,No
+MDI,,3,5,,,,,,2018-06-08 00:00,Eastern,43.91650,-76.63067,,,,,,VR2W,69,126994,,,,,6 months,,,"Bonsall, A",,Yes,ELOMA,No
+MDI,,4,5,,,,,,2018-06-08 00:00,Eastern,43.91375,-76.61913,,,,,,VR2W,69,126972,,,,,6.5 months,,,"Bonsall, A",,Yes,ELOMA,No
+MDI,,5,5,,,,,,2018-06-08 00:00,Eastern,43.91073,-76.60740,,,,,,VR2W,69,126965,,,,,6.5 months,,,"Bonsall, A",,Yes,ELOMA,No
+MDI,,6,5,,,,,,2018-06-08 00:00,Eastern,43.91550,-76.59677,,,,,,VR2Tx,69,481252,,,,,6 months,,,"Bonsall, A",,Yes,ELOMA,No
+CPV,W24-CPV1,1,1,,,,,,2018-09-27 11:00,Eastern,44.12492,-76.35000,,,,,,VR2W,69,128975,,,,,15 months,,,"Fairbanks,A",W24-CPV1,No,ELOMA,No
+CPV,W25-CPV2,2,1,,,,,,2018-09-27 13:00,Eastern,44.13025,-76.35730,,,,,,VR2W,69,128974,,,,,15 months,,,"Fairbanks,A",W25-CPV2,No,ELOMA,No
+LND,W26-LND1,1,1,,,,,,2018-09-27 14:00,Eastern,44.21253,-76.21327,,,,,,VR2W,69,129985,,,,,15 months,,,"Fairbanks,A",W26-LND1,No,ELOMA,No
+LND,W27-LND2,2,1,,,,,,2018-09-27 15:00,Eastern,44.20428,-76.20950,,,,,,VR2W,69,128983,,,,,15 months,,,"Fairbanks,A",W27-LND2,No,ELOMA,No
+CNW,,1,8,,,,,,2018-10-29 11:00,Eastern,44.06155,-76.94815,,,,,,VR2W,69,126969,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+CNW,,2,8,,,,,,2018-10-29 11:30,Eastern,44.06402,-76.94948,,,,,,VR2W,69,126970,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+CNW,,3,8,,,,,,2018-10-29 11:45,Eastern,44.06665,-76.95110,,,,,,VR2W,69,126997,,,,,14 months,,,"Bridgeman, S",,No,ELOMA,No
+CNW,,4,8,,,,,,2018-10-29 12:05,Eastern,44.07018,-76.95340,,,,,,VR2Tx,69,481253,,,,,14 months,,,"Bridgeman, S",,No,ELOMA,No
+GNR,,1,8,,,,,,2018-10-29 12:50,Eastern,44.04562,-77.06193,,,,,,VR2Tx,69,482000,,,,,14 months,,,"Bridgeman, S",,No,ELOMA,No
+GNR,,2,8,,,,,,2018-10-29 13:25,Eastern,44.04877,-77.06053,,,,,,VR2Tx,69,482002,,,,,14 months,,,"Bridgeman, S",,No,ELOMA,No
+MPT,,1,9,,,,,,2018-10-31 10:40,Eastern,44.15147,-77.31048,,,,,,VR2Tx,69,482001,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+TNN,,1,7,,,,,,2018-10-31 11:15,Eastern,44.10920,-77.49803,,,,,,VR2Tx,69,482004,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+TNN,,2,8,,,,,,2018-10-31 11:30,Eastern,44.11262,-77.50018,,,,,,VR2W,69,126999,,,,,10 months,,,"Bridgeman, S",,No,ELOMA,No
+NPR,,1,3,,,,,,2018-11-02 09:00,Eastern,44.21738,-76.97323,,,,,,VR2W,69,126993,,,,,10 months,,,"Bridgeman, S",,No,ELOMA,No
+NPR,,2,3,,,,,,2018-11-02 09:00,Eastern,44.19902,-77.00732,,,,,,VR2W,69,126973,,,,,10 months,,,"Bridgeman, S",,No,ELOMA,No
+TGN,,1,8,,,,,,2018-11-02 11:00,Eastern,44.16413,-77.12430,,,,,,VR2Tx,69,481248,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+DBG,,1,8,,,,,,2018-11-02 11:25,Eastern,44.17297,-77.08905,,,,,,VR2Tx,69,481185,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+TNT,,1,4,,,,,,2018-11-07 11:45,Eastern,44.09992,-77.57183,,,,,,VR2W,69,126959,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+LRH,,1,8,,,,,,2018-11-08 11:50,Eastern,44.14018,-77.06402,,,,,,VR2Tx,69,481189,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+HBY,,2,5,,,,,,2018-11-08 12:25,Eastern,44.09965,-77.06342,,,,,,VR2W,69,126998,,,,,10 months,,,"Bridgeman, S",,No,ELOMA,No
+HBY,,1,5,,,,,,2018-11-08 12:35,Eastern,44.09485,-77.06233,,,,,,VR2Tx,69,481186,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+LIN,,1,3,,,,,,2018-11-13 01:00,Eastern,44.20247,-76.55375,,,,,,VR2Tx,69,481188,,,,,10 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,2,3,,,,,,2018-11-13 01:00,Eastern,44.19458,-76.54165,,,,,,VR2W,69,126985,,,,,11 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,3,3,,,,,,2018-11-13 01:00,Eastern,44.18637,-76.53053,,,,,,VR2Tx,69,481187,,,,,10 months,,,"Elliott, C",,No,ELOMA,No
+HOW,,1,3,,,,,,2018-11-13 01:00,Eastern,44.24163,-76.33552,,,,,,VR2W,69,126956,,,,,15months,,,"Elliott, C",,No,ELOMA,No
+HOW,,2,3,,,,,,2018-11-13 01:00,Eastern,44.26413,-76.35027,,,,,,VR2W,69,126967,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+WOL,,1,3,,,,,,2018-11-13 01:00,Eastern,44.17435,-76.49433,,,,,,VR2W,69,126960,,,,,10 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W7-EB2,2,4,,,,,,2018-11-13 10:15,Eastern,44.04937,-76.80135,,,,,,VR2W,69,126958,,,,,15 months,,,"Bridgeman, S",W7-EB2,No,ELOMA,No
+EAB,W10-EB5,5,4,,,,,,2018-11-13 11:29,Eastern,44.04847,-76.70177,,,,,,VR2W,69,129986,,,,,15 months,,,"Bridgeman, S",W10-EB5,No,ELOMA,No
+FPT,W1-FPT,1,4,,,,,,2018-11-13 12:00,Eastern,43.94760,-77.00170,,,,,,VR2Tx,69,481252,,,,,10 months,,,"Bridgeman, S",W1-FPT,No,ELOMA,No
+EAB,W9-EB4,4,4,,,,,,2018-11-13 12:15,Eastern,44.00003,-76.70060,,,,,,VR2W,69,126994,,,,,15 months,,,"Bridgeman, S",W9-EB4,No,ELOMA,No
+EAB,W8-EB3,3,4,,,,,,2018-11-13 13:20,Eastern,43.95007,-76.69948,,,,,,VR2W,69,126992,,,,,15 months,,,"Bridgeman, S",W8-EB3,No,ELOMA,No
+FDI,W5-FDI,1,4,,,,,,2018-11-13 13:50,Eastern,43.95300,-76.79687,,,,,,VR2W,69,126972,,,,,15 months,,,"Bridgeman, S",W5-FDI,No,ELOMA,No
+EAB,W6-EB1,1,4,,,,,,2018-11-13 14:15,Eastern,43.99907,-76.80248,,,,,,VR2W,69,126965,,,,,15 months,,,"Bridgeman, S",W6-EB1,No,ELOMA,No
+MAM,,4,8,,,,,,2018-11-14 10:05,Eastern,44.15867,-76.80427,,,,,,VR2W,69,126984,,,,,11 months,,,"Bridgeman, S",,No,ELOMA,No
+MAM,,3,8,,,,,,2018-11-14 10:45,Eastern,44.15492,-76.80288,,,,,,VR2Tx,69,481255,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+MAM,,2,8,,,,,,2018-11-14 11:10,Eastern,44.14955,-76.80163,,,,,,VR2Tx,69,481257,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+MAM,,1,8,,,,,,2018-11-14 11:25,Eastern,44.14568,-76.79850,,,,,,VR2W,69,126980,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+IAM,,5,8,,,,,,2018-11-14 11:55,Eastern,44.12717,-76.81675,,,,,,VR2W,69,126966,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+IAM,,4,8,,,,,,2018-11-14 12:05,Eastern,44.12477,-76.82137,,,,,,VR2W,69,126974,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+IAM,,3,8,,,,,,2018-11-14 12:40,Eastern,44.12178,-76.82943,,,,,,VR2W,69,126991,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+IAM,,2,8,,,,,,2018-11-14 12:55,Eastern,44.11965,-76.83592,,,,,,VR2W,69,126990,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+IAM,,1,8,,,,,,2018-11-14 13:10,Eastern,44.11663,-76.84448,,,,,,VR2W,69,126971,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+EAB,W11-EB6,6,4,,,,,,2018-11-19 10:28,Eastern,44.09818,-76.70340,,,,,,VR2W,69,126962,,,,,11 months,,,"Bridgeman, S",W11-EB6,No,ELOMA,No
+EAB,W12-EB7,7,4,,,,,,2018-11-19 11:20,Eastern,43.99925,-76.59890,,,,,,VR2W,69,126977,,,,,11 months,,,"Bridgeman, S",W12-EB7,No,ELOMA,No
+EAB,W16-EB11,11,4,,,,,,2018-11-19 12:00,Eastern,44.04687,-76.50090,,,,,,VR2W,69,126996,,,,,15 months,,,"Bridgeman, S",W16-EB11,No,ELOMA,No
+EAB,W13-EB8,8,4,,,,,,2018-11-19 12:25,Eastern,44.04782,-76.60072,,,,,,VR2W,69,126964,,,,,15 months,,,"Bridgeman, S",W13-EB8,No,ELOMA,No
+EAB,W14-EB9,9,4,,,,,,2018-11-19 13:15,Eastern,44.09778,-76.60032,,,,,,VR2Tx,69,481254,,,,,9 months,,,"Bridgeman, S",W14-EB9,No,ELOMA,No
+ASG,W18-ASG1,1,3,,,,,,2018-11-20 01:00,Eastern,44.17992,-76.56762,,,,,,VR2Tx,69,481249,,,,,10 months,,,"Bridgeman, S",W18-ASG1,Yes,ELOMA,No
+EAB,W15-EB10,10,4,,,,,,2018-11-20 13:40,Eastern,44.14880,-76.60160,,,,,,VR2Tx,69,481256,,,,,9 months,,,"Bridgeman, S",W15-EB10,No,ELOMA,No
+ASG,W19-ASG2,2,4,,,,,,2018-11-20 14:15,Eastern,44.17937,-76.59478,,,,,,VR2W,69,126986,,,,,11 months,,,"Bridgeman, S",W19-ASG2,No,ELOMA,No
+ASG,W20-ASG3,3,4,,,,,,2018-11-20 14:30,Eastern,44.17690,-76.54678,,,,,,VR2W,69,126995,,,,,11 months,,,"Bridgeman, S",W20-ASG3,No,ELOMA,No
+LPL,W21-LPL1,1,2,,,,,,2018-11-27 01:00,Eastern,43.91940,-76.88638,,,,,,VR2Tx,69,482005,,,,,9 months,,,"Bridgeman, S",W21-LPL1,No,ELOMA,No
+LPL,W22-LPL2,2,2,,,,,,2018-11-27 01:00,Eastern,43.91440,-76.87612,,,,,,VR2Tx,69,482003,,,,,9 months,,,"Bridgeman, S",W22-LPL2,No,ELOMA,No
+LPL,W23-LPL3,3,2,,,,,,2018-11-27 01:00,Eastern,43.91125,-76.86478,,,,,,VR2W,69,126978,,,,,15 months,,,"Bridgeman, S",W23-LPL3,No,ELOMA,No
+GRI,W4-GRI2,2,4,,,,,,2018-11-27 11:05,Eastern,44.01248,-76.92643,,,,,,VR2W,69,126975,,,,,10 months,,,"Bridgeman, S",W4-GRI2,No,ELOMA,No
+GRI,W3-GRI1,1,4,,,,,,2018-11-27 11:35,Eastern,43.99883,-76.90068,,,,,,VR2Tx,69,481251,,,,,9 months,,,"Bridgeman, S",W3-GRI1,No,ELOMA,No
+PBY,,1,1,,,,,,2018-11-27 13:00,Eastern,44.00692,-77.68596,,,,,,VR2W,69,126987,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MOR,,1,1,,,,,,2018-11-27 15:00,Eastern,44.15860,-77.38483,,,,,,VR2W,69,126961,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W17-EB12,12,4,,,,,,2018-11-30 00:00,Eastern,44.09737,-76.49053,,,,,,VR2Tx,69,481250,,,,,9 months,,,"Bridgeman, S",W17-EB12,Yes,ELOMA,No
+LPT,W2-LPT,1,3,,,,,,2018-11-30 01:00,Eastern,43.95063,-76.89930,,,,,,VR2W,69,126989,,,,,10 months,,,"Bridgeman, S",W2-LPT,No,ELOMA,No
+TRR,,1,1,,,,,,2019-04-01 11:00,Eastern,44.10812,-77.58181,,,,,,VR2Tx,69,481190,,,,,10 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,1,9,,,,,,2019-05-21 11:00,Eastern,44.06155,-76.94815,,,,,,VR2W,69,131934,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+CNW,,2,9,,,,,,2019-05-21 11:00,Eastern,44.06402,-76.94948,,,,,,VR2W,69,126963,,,,,9 months,,,"Bridgeman, S",,No,ELOMA,No
+CNW,,3,9,,,,,,2019-05-21 11:00,Eastern,44.06665,-76.95110,,,,,,VR2W,69,126968,,,,,10 months,,,"Bridgeman, S",,No,ELOMA,No
+CNW,,4,9,,,,,,2019-05-21 11:00,Eastern,44.07018,-76.95340,,,,,,VR2W,69,126976,,,,,10 months,,,"Bridgeman, S",,No,ELOMA,No
+GNR,,1,9,,,,,,2019-05-21 11:00,Eastern,44.04562,-77.06193,,,,,,VR2W,69,126979,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+GNR,,2,9,,,,,,2019-05-21 11:00,Eastern,44.04877,-77.06053,,,,,,VR2W,69,126988,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+HBY,,1,6,,,,,,2019-05-21 11:00,Eastern,44.09485,-77.06233,,,,,,VR2W,69,131935,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+HBY,,2,6,,,,,,2019-05-21 11:00,Eastern,44.09965,-77.06342,,,,,,VR2W,69,126981,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+IAM,,1,9,,,,,,2019-05-22 11:00,Eastern,44.11663,-76.84448,,,,,,VR2W,69,126983,,,,,15 months,,,"Beech, S",,No,ELOMA,No
+IAM,,2,9,,,,,,2019-05-22 11:00,Eastern,44.11965,-76.83592,,,,,,VR2Tx,69,482002,,,,,7 months,,,"Beech, S",,No,ELOMA,No
+IAM,,3,9,,,,,,2019-05-22 11:00,Eastern,44.12178,-76.82943,,,,,,VR2W,69,126969,,,,,8 months,,,"Beech, S",,No,ELOMA,No
+IAM,,4,9,,,,,,2019-05-22 11:00,Eastern,44.12477,-76.82137,,,,,,VR2Tx,69,481186,,,,,15 months,,,"Beech, S",,No,ELOMA,No
+IAM,,5,9,,,,,,2019-05-22 11:00,Eastern,44.12717,-76.81675,,,,,,VR2Tx,69,482000,,,,,7 months,,,"Beech, S",,No,ELOMA,No
+MAM,,1,9,,,,,,2019-05-22 11:00,Eastern,44.14568,-76.79850,,,,,,VR2W,69,126997,,,,,8 months,,,"Beech, S",,No,ELOMA,No
+MAM,,2,9,,,,,,2019-05-22 11:00,Eastern,44.14955,-76.80163,,,,,,VR2W,69,126998,,,,,15 months,,,"Beech, S",,No,ELOMA,No
+MAM,,3,9,,,,,,2019-05-22 11:00,Eastern,44.15492,-76.80288,,,,,,VR2W,69,126970,,,,,8 months,,,"Beech, S",,No,ELOMA,No
+MAM,,4,9,,,,,,2019-05-22 11:00,Eastern,44.15867,-76.80427,,,,,,VR2Tx,69,481253,,,,,7 months,,,"Beech, S",,No,ELOMA,No
+MOR,,1,2,,,,,,2019-05-23 11:00,Eastern,44.15860,-77.38483,,,,,,VR2W,69,126984,,,,,15 months,,,"Beech, S",,No,ELOMA,No
+MPT,,1,10,,,,,,2019-05-23 11:00,Eastern,44.15147,-77.31048,,,,,,VR2Tx,69,481257,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+TNN,,1,8,,,,,,2019-05-23 11:00,Eastern,44.10920,-77.49803,,,,,,VR2W,69,126980,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+TNN,,2,9,,,,,,2019-05-23 11:00,Eastern,44.11262,-77.50018,,,,,,VR2Tx,69,481255,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+TNT,,1,5,,,,,,2019-05-23 11:00,Eastern,44.09992,-77.57183,,,,,,VR2W,69,126974,,,,,8 months,,,"Bridgeman, S",,No,ELOMA,No
+EAB,W14-EB9,9,5,,,,,,2019-05-24 11:00,Eastern,44.09778,-76.60032,,,,,,VR2Tx,69,482004,,,,,15 months,,,"Bridgeman, S",W14-EB9,No,ELOMA,No
+EAB,W15-EB10,10,5,,,,,,2019-05-24 11:00,Eastern,44.14880,-76.60160,,,,,,VR2W,69,126957,,,,,8 months,,,"Bridgeman, S",W15-EB10,No,ELOMA,No
+EAB,W17-EB12,12,5,,,,,,2019-05-24 11:00,Eastern,44.09737,-76.49053,,,,,,VR2W,69,126966,,,,,15 months,,,"Bridgeman, S",W17-EB12,No,ELOMA,No
+ASG,W19-ASG2,2,5,,,,,,2019-05-24 11:00,Eastern,44.17937,-76.59478,,,,,,VR2W,69,126961,,,,,8 months,,,"Bridgeman, S",W19-ASG2,No,ELOMA,No
+ASG,W20-ASG3,3,5,,,,,,2019-05-24 11:00,Eastern,44.17690,-76.54678,,,,,,VR2W,69,126959,,,,,8 months,,,"Bridgeman, S",W20-ASG3,No,ELOMA,No
+LIN,,1,4,,,,,,2019-05-24 11:00,Eastern,44.20247,-76.55375,,,,,,VR2W,69,126971,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+LIN,,2,4,,,,,,2019-05-24 11:00,Eastern,44.19458,-76.54165,,,,,,VR2W,69,126990,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+LIN,,3,4,,,,,,2019-05-24 11:00,Eastern,44.18637,-76.53053,,,,,,VR2W,69,126991,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+WOL,,1,4,,,,,,2019-05-24 11:00,Eastern,44.17435,-76.49433,,,,,,VR2W,69,126999,,,,,15 months,,,"Bridgeman, S",,No,ELOMA,No
+EAB,W10-EB5,5,5,,,,,,2019-05-27 11:00,Eastern,44.04847,-76.70177,,,,,,VR2W,69,126960,,,,,15 months,,,"Row, A",W10-EB5,No,ELOMA,No
+EAB,W11-EB6,6,5,,,,,,2019-05-27 11:00,Eastern,44.09818,-76.70340,,,,,,VR2W,69,126995,,,,,15 months,,,"Row, A",W11-EB6,No,ELOMA,No
+EAB,W7-EB2,2,5,,,,,,2019-05-27 11:00,Eastern,44.04937,-76.80135,,,,,,VR2Tx,69,481188,,,,,15 months,,,"Row, A",W7-EB2,No,ELOMA,No
+DBG,,1,9,,,,,,2019-05-28 11:00,Eastern,44.17297,-77.08905,,,,,,VR2Tx,69,481254,,,,,15 months,,,"Row, A",,No,ELOMA,No
+LRH,,1,9,,,,,,2019-05-28 11:00,Eastern,44.14018,-77.06402,,,,,,VR2Tx,69,481250,,,,,15 months,,,"Row, A",,No,ELOMA,No
+NPR,,1,4,,,,,,2019-05-28 11:00,Eastern,44.21738,-76.97323,,,,,,VR2Tx,69,481256,,,,,15 months,,,"Row, A",,No,ELOMA,No
+NPR,,2,4,,,,,,2019-05-28 11:00,Eastern,44.19902,-77.00732,,,,,,VR2Tx,69,481187,,,,,15 months,,,"Row, A",,No,ELOMA,No
+TGN,,1,9,,,,,,2019-05-28 11:00,Eastern,44.16413,-77.12430,,,,,,VR2W,69,126985,,,,,15 months,,,"Row, A",,No,ELOMA,No
+EAB,W12-EB7,7,5,,,,,,2019-05-29 11:00,Eastern,43.99925,-76.59890,,,,,,VR2W,69,126993,,,,,15 months,,,"Row, A",W12-EB7,No,ELOMA,No
+EAB,W16-EB11,11,5,,,,,,2019-05-29 11:00,Eastern,44.04687,-76.50090,,,,,,VR2W,69,126958,,,,,8 months,,,"Row, A",W16-EB11,No,ELOMA,No
+FPT,W1-FPT,1,5,,,,,,2019-05-29 11:00,Eastern,43.94760,-77.00170,,,,,,VR2Tx,69,481248,,,,,15 months,,,"Row, A",W1-FPT,No,ELOMA,No
+LPL,W21-LPL1,1,3,,,,,,2019-05-29 11:00,Eastern,43.91940,-76.88638,,,,,,VR2Tx,69,481185,,,,,15 months,,,"Row, A",W21-LPL1,No,ELOMA,No
+LPL,W22-LPL2,2,3,,,,,,2019-05-29 11:00,Eastern,43.91440,-76.87612,,,,,,VR2W,69,126973,,,,,15 months,,,"Row, A",W22-LPL2,No,ELOMA,No
+LPL,W23-LPL3,3,3,,,,,,2019-05-29 11:00,Eastern,43.91125,-76.86478,,,,,,VR2W,69,129986,,,,,15 months,,,"Row, A",W23-LPL3,No,ELOMA,No
+FDI,W5-FDI,1,5,,,,,,2019-05-29 11:00,Eastern,43.95300,-76.79687,,,,,,VR2W,69,126986,,,,,15 months,,,"Row, A",W5-FDI,No,ELOMA,No
+EAB,W8-EB3,3,5,,,,,,2019-05-29 11:00,Eastern,43.95007,-76.69948,,,,,,VR2W,69,126962,,,,,15 months,,,"Row, A",W8-EB3,No,ELOMA,No
+EAB,W9-EB4,4,5,,,,,,2019-05-29 11:00,Eastern,44.00003,-76.70060,,,,,,VR2Tx,69,481189,,,,,15 months,,,"Row, A",W9-EB4,No,ELOMA,No
+LPT,W2-LPT,1,4,,,,,,2019-05-30 11:00,Eastern,43.95063,-76.89930,,,,,,VR2Tx,69,482003,,,,,15 months,,,"Row, A",W2-LPT,No,ELOMA,No
+GRI,W4-GRI2,2,5,,,,,,2019-05-30 11:00,Eastern,44.01248,-76.92643,,,,,,VR2W,69,126977,,,,,15 months,,,"Row, A",W4-GRI2,No,ELOMA,No
+EAB,W6-EB1,1,5,,,,,,2019-05-30 11:00,Eastern,43.99907,-76.80248,,,,,,VR2W,69,126996,,,,,8 months,,,"Row, A",W6-EB1,No,ELOMA,No
+EAB,W13-EB8,8,5,,,,,,2019-05-31 11:00,Eastern,44.04782,-76.60072,,,,,,VR2Tx,69,481252,,,,,15 months,,,"Row, A",W13-EB8,No,ELOMA,No
+GRI,W3-GRI1,1,5,,,,,,2019-05-31 11:00,Eastern,43.99883,-76.90068,,,,,,VR2Tx,69,482005,,,,,15 months,,,"Row, A",W3-GRI1,No,ELOMA,No
+PBY,,1,2,,,,,,2019-06-03 11:00,Eastern,44.00692,-77.68596,,,,,,VR2W,69,126964,,,,,8 months,,,"Row, A",,No,ELOMA,No
+ASG,W18-ASG1,1,4,,,,,,2019-06-28 11:00,Eastern,44.17992,-76.56762,,,,,,VR2Tx,69,482001,,,,,14 months,,,"Elliott, C",W18-ASG1,No,ELOMA,No
+HOW,,1,4,,,,,,2019-06-28 11:00,Eastern,44.24163,-76.33552,,,,,,VR2Tx,69,481251,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HOW,,2,4,,,,,,2019-06-28 11:00,Eastern,44.26413,-76.35027,,,,,,VR2W,69,126987,,,,,8 months,,,"Elliott, C",,No,ELOMA,No
+LND,W26-LND1,1,2,,,,,,2019-08-26 11:00,Eastern,44.21253,-76.21327,,,,,,VR2W,69,126975,,,,,15 months,,,"Elliott, C",W26-LND1,No,ELOMA,No
+LND,W27-LND2,2,2,,,,,,2019-08-26 11:00,Eastern,44.20428,-76.20950,,,,,,VR2Tx,69,481249,,,,,15 months,,,"Elliott, C",W27-LND2,No,ELOMA,No
+CPV,W24-CPV1,1,2,,,,,,2019-08-27 11:00,Eastern,44.12492,-76.35000,,,,,,VR2W,69,126989,,,,,15 months,,,"Elliott, C",W24-CPV1,No,ELOMA,No
+CPV,W25-CPV2,2,2,,,,,,2019-08-27 11:00,Eastern,44.13025,-76.35730,,,,,,VR2W,69,126978,,,,,15 months,,,"Elliott, C",W25-CPV2,No,ELOMA,No
+EAB,W15-EB10,10,6,,,,,,2019-10-08 11:00,Eastern,44.14880,-76.60160,,,,,,VR2W,69,126956,,,,,15 months,,,"Elliott, C",W15-EB10,No,ELOMA,No
+EAB,W16-EB11,11,6,,,,,,2019-10-08 11:00,Eastern,44.04687,-76.50090,,,,,,VR2W,69,128974,,,,,15 months,,,"Elliott, C",W16-EB11,No,ELOMA,No
+ASG,W19-ASG2,2,6,,,,,,2019-10-08 11:00,Eastern,44.17937,-76.59478,,,,,,VR2W,69,129985,,,,,15 months,,,"Elliott, C",W19-ASG2,No,ELOMA,No
+ASG,W20-ASG3,3,6,,,,,,2019-10-08 11:00,Eastern,44.17690,-76.54678,,,,,,VR2W,69,128975,,,,,15 months,,,"Elliott, C",W20-ASG3,No,ELOMA,No
+EAB,W6-EB1,1,6,,,,,,2019-10-08 11:00,Eastern,43.99907,-76.80248,,,,,,VR2W,69,126965,,,,,15 months,,,"Elliott, C",W6-EB1,No,ELOMA,No
+HOW,,2,5,,,,,,2019-10-08 11:00,Eastern,44.26413,-76.35027,,,,,,VR2W,69,128983,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,2,10,,,,,,2019-10-15 11:00,Eastern,44.06402,-76.94948,,,,,,VR2W,69,126961,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,3,10,,,,,,2019-10-15 11:00,Eastern,44.06665,-76.95110,,,,,,VR2W,69,126959,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,4,10,,,,,,2019-10-15 11:00,Eastern,44.07018,-76.95340,,,,,,VR2W,69,126957,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,2,10,,,,,,2019-10-15 11:00,Eastern,44.11965,-76.83592,,,,,,VR2W,69,126967,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,3,10,,,,,,2019-10-15 11:00,Eastern,44.12178,-76.82943,,,,,,VR2W,69,126972,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,5,10,,,,,,2019-10-15 11:00,Eastern,44.12717,-76.81675,,,,,,VR2W,69,126992,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,1,10,,,,,,2019-10-15 11:00,Eastern,44.14568,-76.79850,,,,,,VR2W,69,126958,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,3,10,,,,,,2019-10-15 11:00,Eastern,44.15492,-76.80288,,,,,,VR2W,69,126994,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,4,10,,,,,,2019-10-15 11:00,Eastern,44.15867,-76.80427,,,,,,VR2W,69,126987,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNT,,1,6,,,,,,2019-10-30 11:00,Eastern,44.09992,-77.57183,,,,,,VR2W,69,126996,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TRR,,1,2,,,,,,2019-10-30 11:00,Eastern,44.10812,-77.58181,,,,,,VR2Tx,69,482000,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+PBY,,1,3,,,,,,2019-10-30 11:00,Eastern,44.00692,-77.68596,,,,,,VR2W,69,126976,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HOW,,2,6,,,,,,2020-06-09 11:00,Eastern,44.26413,-76.35027,,,,,,VR2Tx,69,481190,,,,,,,,,,No,ELOMA,No
+WOL,,1,5,,,,,,2020-06-09 11:00,Eastern,44.17435,-76.49433,,,,,,VR2W,69,126974,,,,,,,,,,No,ELOMA,No
+LIN,,1,5,,,,,,2020-06-09 11:00,Eastern,44.20247,-76.55375,,,,,,VR2W,69,126964,,,,,,,,,,No,ELOMA,No
+LIN,,2,5,,,,,,2020-06-09 11:00,Eastern,44.19458,-76.54165,,,,,,VR2W,69,126969,,,,,,,,,,No,ELOMA,No
+LIN,,3,5,,,,,,2020-06-09 11:00,Eastern,44.18637,-76.53053,,,,,,VR2W,69,126970,,,,,,,,,,No,ELOMA,No
+EAB,W10-EB5,5,6,,,,,,2020-06-15 11:00,Eastern,44.04847,-76.70177,,,,,,VR2W,69,126966,,,,,,,,,,No,ELOMA,No
+EAB,W11-EB6,6,6,,,,,,2020-06-15 11:00,Eastern,44.09818,-76.70340,,,,,,VR2W,69,126991,,,,,,,,,,No,ELOMA,No
+EAB,W12-EB7,7,6,,,,,,2020-06-15 11:00,Eastern,43.99925,-76.59890,,,,,,VR2W,69,126956,,,,,,,,,,No,ELOMA,No
+EAB,W13-EB8,8,6,,,,,,2020-06-15 11:00,Eastern,44.04782,-76.60072,,,,,,VR2W,69,126971,,,,,,,,,,No,ELOMA,No
+EAB,W14-EB9,9,6,,,,,,2020-06-15 11:00,Eastern,44.09778,-76.60032,,,,,,VR2W,69,126990,,,,,,,,,,No,ELOMA,No
+EAB,W15-EB10,10,7,,,,,,2020-06-15 11:00,Eastern,44.14880,-76.60160,,,,,,VR2Tx,69,481253,,,,,,,,,,No,ELOMA,No
+EAB,W16-EB11,11,7,,,,,,2020-06-15 11:00,Eastern,44.04687,-76.50090,,,,,,VR2W,69,126999,,,,,,,,,,No,ELOMA,No
+EAB,W17-EB12,12,6,,,,,,2020-06-15 11:00,Eastern,44.09737,-76.49053,,,,,,VR2W,69,128983,,,,,,,,,,No,ELOMA,No
+ASG,W18-ASG1,1,5,,,,,,2020-06-15 11:00,Eastern,44.17992,-76.56762,,,,,,VR2Tx,69,482002,,,,,,,,,,No,ELOMA,No
+ASG,W19-ASG2,2,7,,,,,,2020-06-15 11:00,Eastern,44.17937,-76.59478,,,,,,VR2W,69,126997,,,,,,,,,,No,ELOMA,No
+ASG,W20-ASG3,3,7,,,,,,2020-06-15 11:00,Eastern,44.17690,-76.54678,,,,,,VR2W,69,126968,,,,,,,,,,No,ELOMA,No
+EAB,W9-EB4,4,6,,,,,,2020-06-15 11:00,Eastern,44.00003,-76.70060,,,,,,VR2W,69,126995,,,,,,,,,,No,ELOMA,No
+HOW,,1,5,,,,,,2020-06-15 11:00,Eastern,44.24163,-76.33552,,,,,,VR2W,69,126963,,,,,,,,,,No,ELOMA,No
+FPT,W1-FPT,1,6,,,,,,2020-06-17 11:00,Eastern,43.94760,-77.00170,,,,,,VR2Tx,69,483748,,,,,,,,,,No,ELOMA,No
+LPL,W21-LPL1,1,4,,,,,,2020-06-17 11:00,Eastern,43.91940,-76.88638,,,,,,VR2Tx,69,482004,,,,,,,,,,No,ELOMA,No
+LPL,W22-LPL2,2,4,,,,,,2020-06-17 11:00,Eastern,43.91440,-76.87612,,,,,,VR2Tx,69,482001,,,,,,,,,,No,ELOMA,No
+LPL,W23-LPL3,3,4,,,,,,2020-06-17 11:00,Eastern,43.91125,-76.86478,,,,,,VR2W,69,128975,,,,,,,,,,No,ELOMA,No
+LPT,W2-LPT,1,5,,,,,,2020-06-17 11:00,Eastern,43.95063,-76.89930,,,,,,VR2Tx,69,481189,,,,,,,,,,No,ELOMA,No
+GRI,W3-GRI1,1,6,,,,,,2020-06-17 11:00,Eastern,43.99883,-76.90068,,,,,,VR2W,69,128974,,,,,,,,,,No,ELOMA,No
+GRI,W4-GRI2,2,6,,,,,,2020-06-17 11:00,Eastern,44.01248,-76.92643,,,,,,VR2Tx,69,481251,,,,,,,,,,No,ELOMA,No
+FDI,W5-FDI,1,6,,,,,,2020-06-17 11:00,Eastern,43.95300,-76.79687,,,,,,VR2W,69,126960,,,,,,,,,,No,ELOMA,No
+EAB,W6-EB1,1,7,,,,,,2020-06-17 11:00,Eastern,43.99907,-76.80248,,,,,,VR2Tx,69,481252,,,,,,,,,,No,ELOMA,No
+EAB,W7-EB2,2,6,,,,,,2020-06-17 11:00,Eastern,44.04937,-76.80135,,,,,,VR2W,69,126993,,,,,,,,,,No,ELOMA,No
+EAB,W8-EB3,3,6,,,,,,2020-06-17 11:00,Eastern,43.95007,-76.69948,,,,,,VR2W,69,129985,,,,,,,,,,No,ELOMA,No
+IAM,,5,11,,,,,,2020-06-18 11:00,Eastern,44.12717,-76.81675,,,,,,VR2Tx,69,481185,,,,,,,,,,No,ELOMA,No
+IAM,,4,10,,,,,,2020-06-18 11:00,Eastern,44.12477,-76.82137,,,,,,VR2Tx,69,481188,,,,,,,,,,No,ELOMA,No
+IAM,,3,11,,,,,,2020-06-18 11:00,Eastern,44.12178,-76.82943,,,,,,VR2W,69,126977,,,,,,,,,,No,ELOMA,No
+IAM,,2,11,,,,,,2020-06-18 11:00,Eastern,44.11965,-76.83592,,,,,,VR2W,69,129986,,,,,,,,,,No,ELOMA,No
+MAM,,1,11,,,,,,2020-06-18 11:00,Eastern,44.14568,-76.79850,,,,,,VR2Tx,69,482005,,,,,,,,,,No,ELOMA,No
+MAM,,2,10,,,,,,2020-06-18 11:00,Eastern,44.14955,-76.80163,,,,,,VR2W,69,126986,,,,,,,,,,No,ELOMA,No
+MAM,,3,11,,,,,,2020-06-18 11:00,Eastern,44.15492,-76.80288,,,,,,VR2W,69,126973,,,,,,,,,,No,ELOMA,No
+MAM,,4,11,,,,,,2020-06-18 11:00,Eastern,44.15867,-76.80427,,,,,,VR2W,69,126962,,,,,,,,,,No,ELOMA,No
+TGN,,1,10,,,,,,2020-06-19 11:00,Eastern,44.16413,-77.12430,,,,,,VR2W,69,126958,,,,,,,,,,No,ELOMA,No
+DBG,,1,10,,,,,,2020-06-19 11:00,Eastern,44.17297,-77.08905,,,,,,VR2W,69,126967,,,,,,,,,,No,ELOMA,No
+LRH,,1,10,,,,,,2020-06-19 11:00,Eastern,44.14018,-77.06402,,,,,,VR2W,69,126987,,,,,,,,,,No,ELOMA,No
+HBY,,1,7,,,,,,2020-06-19 11:00,Eastern,44.09485,-77.06233,,,,,,VR2W,69,126992,,,,,,,,,,No,ELOMA,No
+HBY,,2,7,,,,,,2020-06-19 11:00,Eastern,44.09965,-77.06342,,,,,,VR2W,69,126972,,,,,,,,,,No,ELOMA,No
+NPR,,2,5,,,,,,2020-06-19 11:00,Eastern,44.19902,-77.00732,,,,,,VR2W,69,126998,,,,,,,,,,No,ELOMA,No
+NPR,,1,5,,,,,,2020-06-19 11:00,Eastern,44.21738,-76.97323,,,,,,VR2W,69,126994,,,,,,,,,,No,ELOMA,No
+GNR,,1,10,,,,,,2020-06-25 11:00,Eastern,44.04562,-77.06193,,,,,,VR2W,69,126985,,,,,,,,,,No,ELOMA,No
+GNR,,2,10,,,,,,2020-06-25 11:00,Eastern,44.04877,-77.06053,,,,,,VR2W,69,126981,,,,,,,,,,No,ELOMA,No
+CNW,,4,11,,,,,,2020-06-25 11:00,Eastern,44.07018,-76.95340,,,,,,VR2W,69,131935,,,,,,,,,,No,ELOMA,No
+CNW,,3,11,,,,,,2020-06-25 11:00,Eastern,44.06665,-76.95110,,,,,,VR2Tx,69,481256,,,,,,,,,,No,ELOMA,No
+CNW,,2,11,,,,,,2020-06-25 11:00,Eastern,44.06402,-76.94948,,,,,,VR2Tx,69,481186,,,,,,,,,,No,ELOMA,No
+CNW,,1,10,,,,,,2020-06-25 11:00,Eastern,44.06155,-76.94815,,,,,,VR2Tx,69,481250,,,,,,,,,,No,ELOMA,No
+PBY,,1,4,,,,,,2020-07-09 11:00,Eastern,44.00692,-77.68596,,,,,,VR2W,69,126988,,,,,,,,,,No,ELOMA,No
+TNT,,1,7,,,,,,2020-07-09 11:00,Eastern,44.09992,-77.57183,,,,,,VR2W,69,131934,,,,,,,,,,No,ELOMA,No
+TRR,,1,3,,,,,,2020-07-09 11:00,Eastern,44.10812,-77.58181,,,,,,VR2W,69,126961,,,,,,,,,,No,ELOMA,No
+TNN,,1,9,,,,,,2020-07-09 11:00,Eastern,44.10920,-77.49803,,,,,,VR2W,69,126979,,,,,,,,,,No,ELOMA,No
+TNN,,2,10,,,,,,2020-07-09 11:00,Eastern,44.11262,-77.50018,,,,,,VR2W,69,126957,,,,,,,,,,No,ELOMA,No
+MPT,,1,11,,,,,,2020-07-09 11:00,Eastern,44.15147,-77.31048,,,,,,VR2W,69,126965,,,,,,,,,,No,ELOMA,No
+MOR,,1,3,,,,,,2020-07-17 11:00,Eastern,44.15860,-77.38483,,,,,,VR2W,69,126959,,,,,,,,,,No,ELOMA,No
+CPV,W24-CPV1,1,3,,,,,,2020-07-24 11:00,Eastern,44.12492,-76.35000,,,,,,VR2W,69,128163,,,,,15 months,,,"Elliott, C",W24-CPV1,No,ELOMA,No
+CPV,W25-CPV2,2,3,,,,,,2020-07-29 11:00,Eastern,44.13025,-76.35730,,,,,,VR2W,69,126975,,,,,15 months,,,"Elliott, C",W25-CPV2,No,ELOMA,No
+LND,W26-LND1,1,3,,,,,,2020-07-29 11:00,Eastern,44.21253,-76.21327,,,,,,VR2Tx,69,481249,,,,,15 months,,,"Elliott, C",W26-LND1,No,ELOMA,No
+LND,W27-LND2,2,3,,,,,,2020-07-29 11:00,Eastern,44.20428,-76.20950,,,,,,VR2W,69,126978,,,,,15 months,,,"Elliott, C",W27-LND2,No,ELOMA,No
+IAM,,1,11,,,,,,2020-09-03 11:00,Eastern,44.11663,-76.84448,,,,,,VR2Tx,69,481248,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,1,1,,,,,,2020-09-03 18:00,Eastern,43.93872,-76.63553,,,,,,VR2Tx,69,483749,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,2,1,,,,,,2020-09-03 18:00,Eastern,43.93160,-76.59572,,,,,,VR2Tx,69,483750,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,7,1,,,,,,2020-09-03 18:00,Eastern,43.92273,-76.58327,,,,,,VR2Tx,69,483747,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,6,1,,,,,,2020-09-03 18:00,Eastern,43.91467,-76.59822,,,,,,VR2W,69,126984,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,5,1,,,,,,2020-09-03 18:00,Eastern,43.91668,-76.62755,,,,,,VR2Tx,69,481187,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,4,1,,,,,,2020-09-03 18:00,Eastern,43.92405,-76.64722,,,,,,VR2Tx,69,481255,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,3,1,,,,,,2020-09-03 18:00,Eastern,43.93173,-76.66337,,,,,,VR2Tx,69,481257,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,8,1,,,,,,2020-09-03 18:00,Eastern,43.92169,-76.69262,,,,,,VR2Tx,69,483746,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,9,1,,,,,,2020-09-03 18:00,Eastern,43.91678,-76.67042,,,,,,VR2Tx,69,483751,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,10,1,,,,,,2020-09-03 18:00,Eastern,43.90970,-76.65030,,,,,,VR2W,69,126996,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,11,1,,,,,,2020-09-03 18:00,Eastern,43.90193,-76.62740,,,,,,VR2W,69,126976,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,12,1,,,,,,2020-09-03 18:00,Eastern,43.90128,-76.60374,,,,,,VR2Tx,69,482003,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,16,1,,,,,,2020-09-03 18:00,Eastern,43.88663,-76.64188,,,,,,VR2W,69,126980,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,15,1,,,,,,2020-09-03 18:00,Eastern,43.89473,-76.66043,,,,,,VR2Tx,69,481254,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,14,1,,,,,,2020-09-03 18:00,Eastern,43.90293,-76.68107,,,,,,VR2Tx,69,482000,,,,,,,,"Elliott, C",,No,ELOMA,No
+MDA,,2,2,,,,,,2020-10-19 18:00,Eastern,43.93160,-76.59572,,,,,,VR2Tx,69,482000,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,7,2,,,,,,2020-10-19 18:00,Eastern,43.92273,-76.58327,,,,,,VR2Tx,69,483750,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,13,1,,,,,,2020-10-19 18:00,Eastern,43.90803,-76.58350,,,,,,VR2W,69,136216,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,18,1,,,,,,2020-10-19 18:00,Eastern,43.88923,-76.59792,,,,,,VR2W,69,136220,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,17,1,,,,,,2020-10-19 18:00,Eastern,43.88657,-76.61592,,,,,,VR2W,69,136228,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,16,2,,,,,,2020-10-19 18:00,Eastern,43.88663,-76.64188,,,,,,VR2Tx,69,483747,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,15,2,,,,,,2020-10-19 18:00,Eastern,43.89473,-76.66043,,,,,,VR2W,69,126980,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,14,2,,,,,,2020-10-19 18:00,Eastern,43.90293,-76.68107,,,,,,VR2Tx,69,481254,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,1,2,,,,,,2020-10-22 18:00,Eastern,43.93872,-76.63553,,,,,,VR2Tx,69,481255,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,3,2,,,,,,2020-10-22 18:00,Eastern,43.93173,-76.66337,,,,,,VR2Tx,69,483749,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,8,2,,,,,,2020-10-22 18:00,Eastern,43.92169,-76.69262,,,,,,VR2Tx,69,481257,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,9,2,,,,,,2020-10-22 18:00,Eastern,43.91678,-76.67042,,,,,,VR2Tx,69,483746,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,10,2,,,,,,2020-10-22 18:00,Eastern,43.90970,-76.65030,,,,,,VR2Tx,69,483751,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,11,2,,,,,,2020-10-22 18:00,Eastern,43.90193,-76.62740,,,,,,VR2W,69,126996,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,12,2,,,,,,2020-10-22 18:00,Eastern,43.90128,-76.60374,,,,,,VR2W,69,126976,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,6,2,,,,,,2020-10-22 18:00,Eastern,43.91467,-76.59822,,,,,,VR2Tx,69,482003,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,5,2,,,,,,2020-10-22 18:00,Eastern,43.91668,-76.62755,,,,,,VR2W,69,126984,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,4,2,,,,,,2020-10-22 18:00,Eastern,43.92405,-76.64722,,,,,,VR2Tx,69,481187,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HOW,,2,7,,,,,,2021-05-31 11:00,Eastern,44.26413,-76.35027,,,,,,VR2Tx,69,486583,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,4,11,,,,,,2021-06-02 11:00,Eastern,44.12717,-76.81675,,,,,,VR2Tx,69,486580,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,3,12,,,,,,2021-06-02 11:00,Eastern,44.12338,-76.82541,,,,,,VR2Tx,69,486585,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,2,12,,,,,,2021-06-02 11:00,Eastern,44.12044,-76.83555,,,,,,VR2Tx,69,486584,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,1,12,,,,,,2021-06-02 11:00,Eastern,44.11715,-76.84579,,,,,,VR2W,69,126973,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,1,12,,,,,,2021-06-02 11:00,Eastern,44.14568,-76.79850,,,,,,VR2Tx,69,486582,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,2,11,,,,,,2021-06-02 11:00,Eastern,44.15208,-76.80180,,,,,,VR2Tx,69,486579,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,3,12,,,,,,2021-06-02 11:00,Eastern,44.15867,-76.80427,,,,,,VR2Tx,69,481190,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,2,12,,,,,,2021-06-02 11:00,Eastern,44.06322,-76.96356,,,,,,VR2W,69,129986,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,1,11,,,,,,2021-06-02 11:00,Eastern,44.05830,-76.95671,,,,,,VR2Tx,69,486581,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W15-EB10,10,8,,,,,,2021-06-08 11:00,Eastern,44.14880,-76.60160,,,,,,VR2Tx,69,482005,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+ASG,W18-ASG1,1,6,,,,,,2021-06-08 11:00,Eastern,44.17992,-76.56762,,,,,,VR2Tx,69,481185,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+ASG,W19-ASG2,2,8,,,,,,2021-06-08 11:00,Eastern,44.17937,-76.59478,,,,,,VR2Tx,69,481188,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+ASG,W20-ASG3,3,8,,,,,,2021-06-08 11:00,Eastern,44.17690,-76.54678,,,,,,VR2Tx,69,481248,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+WOL,,1,6,,,,,,2021-06-08 11:00,Eastern,44.17435,-76.49433,,,,,,VR2W,69,126962,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,1,6,,,,,,2021-06-08 11:00,Eastern,44.20247,-76.55375,,,,,,VR2W,69,126986,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,2,6,,,,,,2021-06-08 11:00,Eastern,44.19458,-76.54165,,,,,,VR2W,69,126977,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,3,6,,,,,,2021-06-08 11:00,Eastern,44.18637,-76.53053,,,,,,VR2W,69,131935,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W12-EB7,7,7,,,,,,2021-06-09 11:00,Eastern,43.99925,-76.59890,,,,,,VR2Tx,69,481253,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W16-EB11,11,8,,,,,,2021-06-09 11:00,Eastern,44.04687,-76.50090,,,,,,VR2Tx,69,482002,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W17-EB12,12,7,,,,,,2021-06-09 11:00,Eastern,44.09737,-76.49053,,,,,,VR2Tx,69,481256,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FPT,W1-FPT,1,7,,,,,,2021-06-09 11:00,Eastern,43.94760,-77.00170,,,,,,VR2W,69,126970,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LPT,W2-LPT,1,6,,,,,,2021-06-09 11:00,Eastern,43.95063,-76.89930,,,,,,VR2W,69,126997,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GRI,W3-GRI1,1,7,,,,,,2021-06-09 11:00,Eastern,43.99883,-76.90068,,,,,,VR2W,69,126974,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GRI,W4-GRI2,2,7,,,,,,2021-06-09 11:00,Eastern,44.01248,-76.92643,,,,,,VR2W,69,126969,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FDI,W5-FDI,1,7,,,,,,2021-06-09 11:00,Eastern,43.95300,-76.79687,,,,,,VR2W,69,126968,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W8-EB3,3,7,,,,,,2021-06-09 11:00,Eastern,43.95007,-76.69948,,,,,,VR2W,69,126964,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+PBY,,1,5,,,,,,2021-06-11 11:00,Eastern,44.00692,-77.68596,,,,,,VR2W,69,128974,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNT,,1,8,,,,,,2021-06-11 11:00,Eastern,44.09992,-77.57183,,,,,,VR2W,69,128975,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TRR,,1,4,,,,,,2021-06-11 11:00,Eastern,44.10812,-77.58181,,,,,,VR2W,69,126999,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNN,,1,10,,,,,,2021-06-11 11:00,Eastern,44.10920,-77.49803,,,,,,VR2W,69,128983,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNN,,2,11,,,,,,2021-06-11 11:00,Eastern,44.11262,-77.50018,,,,,,VR2Tx,69,481189,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MPT,,1,12,,,,,,2021-06-11 11:00,Eastern,44.15147,-77.31048,,,,,,VR2Tx,69,483748,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MOR,,1,4,,,,,,2021-06-11 11:00,Eastern,44.15860,-77.38483,,,,,,VR2W,69,126956,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TGN,,1,11,,,,,,2021-06-16 11:00,Eastern,44.16413,-77.12430,,,,,,VR2W,69,126959,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+DBG,,1,11,,,,,,2021-06-16 11:00,Eastern,44.17297,-77.08905,,,,,,VR2W,69,126965,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LRH,,1,11,,,,,,2021-06-16 11:00,Eastern,44.14018,-77.06402,,,,,,VR2W,69,126961,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HBY,,1,8,,,,,,2021-06-16 11:00,Eastern,44.09485,-77.06233,,,,,,VR2W,69,126988,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HBY,,2,8,,,,,,2021-06-16 11:00,Eastern,44.09965,-77.06342,,,,,,VR2W,69,131934,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+NPR,,2,6,,,,,,2021-06-16 11:00,Eastern,44.19902,-77.00732,,,,,,VR2W,69,129985,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+NPR,,1,6,,,,,,2021-06-16 11:00,Eastern,44.21738,-76.97323,,,,,,VR2Tx,69,482004,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GNR,,1,11,,,,,,2021-06-16 11:00,Eastern,44.04562,-77.06193,,,,,,VR2W,69,126957,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GNR,,2,11,,,,,,2021-06-16 11:00,Eastern,44.04877,-77.06053,,,,,,VR2W,69,126979,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W11-EB6,6,7,,,,,,2021-07-09 11:00,Eastern,44.09818,-76.70340,,,,,,VR2W,69,126958,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W9-EB4,4,7,,,,,,2021-07-09 11:00,Eastern,44.00003,-76.70060,,,,,,VR2AR,69,550553,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W10-EB5,5,7,,,,,,2021-07-16 11:00,Eastern,44.04847,-76.70177,,,,,,VR2Tx,69,481186,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W13-EB8,8,7,,,,,,2021-07-16 11:00,Eastern,44.04782,-76.60072,,,,,,VR2W,69,126998,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W14-EB9,9,7,,,,,,2021-07-16 11:00,Eastern,44.09778,-76.60032,,,,,,VR2W,69,126960,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W6-EB1,1,8,,,,,,2021-07-16 11:00,Eastern,43.99907,-76.80248,,,,,,VR2Tx,69,482001,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W7-EB2,2,7,,,,,,2021-07-16 11:00,Eastern,44.04937,-76.80135,,,,,,VR2Tx,69,481250,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HOW,,1,6,,,,,,2021-07-23 11:00,Eastern,44.24163,-76.33552,,,,,,VR2Tx,69,481251,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CPV,W24-CPV1,1,4,,,,,,2021-10-05 11:00,Eastern,44.13025,-76.35730,,,,,,VR2W,69,128773,,,,,15 months,,,"Elliott, C",W24-CPV1,No,ELOMA,No
+CPV,W25-CPV2,2,4,,,,,,2021-09-29 11:00,Eastern,44.13025,-76.35730,,,,,,VR2W,69,126975,,,,,15 months,,,"Elliott, C",W25-CPV2,No,ELOMA,No
+LND,W26-LND1,1,4,,,,,,2021-09-29 11:00,Eastern,44.21253,-76.21327,,,,,,VR2Tx,69,481249,,,,,15 months,,,"Elliott, C",W26-LND1,No,ELOMA,No
+LND,W27-LND2,2,4,,,,,,2021-09-29 11:00,Eastern,44.20433,-76.20948,,,,,,VR2W,69,126978,,,,,15 months,,,"Elliott, C",W27-LND2,No,ELOMA,No
+MDA,,7,3,,,,,,2021-10-06 11:00,Eastern,43.92273,-76.58327,,,,,,VR2W,69,126990,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,13,2,,,,,,2021-10-06 11:00,Eastern,43.90803,-76.58350,,,,,,VR2W,69,126995,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,3,3,,,,,,2021-10-06 11:00,Eastern,43.93173,-76.66337,,,,,,VR2W,69,126987,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,9,3,,,,,,2021-10-06 11:00,Eastern,43.91678,-76.67042,,,,,,VR2W,69,126963,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,10,3,,,,,,2021-10-06 11:00,Eastern,43.90970,-76.65030,,,,,,VR2W,69,126981,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,11,3,,,,,,2021-10-06 11:00,Eastern,43.90193,-76.62740,,,,,,VR2Tx,69,481252,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,12,3,,,,,,2021-10-06 11:00,Eastern,43.90128,-76.60374,,,,,,VR2W,69,126971,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,6,3,,,,,,2021-10-06 11:00,Eastern,43.91467,-76.59822,,,,,,VR2W,69,126991,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,5,3,,,,,,2021-10-06 11:00,Eastern,43.91668,-76.62755,,,,,,VR2W,69,126966,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,4,3,,,,,,2021-10-06 11:00,Eastern,43.92405,-76.64722,,,,,,VR2W,69,126993,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,2,3,,,,,,2021-10-07 11:00,Eastern,43.93160,-76.59572,,,,,,VR2W,69,126967,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,18,2,,,,,,2021-10-07 11:00,Eastern,43.88923,-76.59792,,,,,,VR2Tx,69,483750,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,17,2,,,,,,2021-10-07 11:00,Eastern,43.88657,-76.61592,,,,,,VR2W,69,126972,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,16,3,,,,,,2021-10-07 11:00,Eastern,43.88663,-76.64188,,,,,,VR2W,69,126985,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,15,3,,,,,,2021-10-07 11:00,Eastern,43.89473,-76.66043,,,,,,VR2W,69,126976,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,14,3,,,,,,2021-10-07 11:00,Eastern,43.90293,-76.68107,,,,,,VR2W,69,126994,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,1,3,,,,,,2021-10-07 11:00,Eastern,43.93872,-76.63553,,,,,,VR2W,69,126992,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MDA,,8,3,,,,,,2021-10-07 11:00,Eastern,43.92169,-76.69262,,,,,,VR2Tx,69,483749,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,1,1,,,,,,2020-10-26 18:00,Eastern,44.23580,-76.17430,,,,,,VR2AR,69,548285,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,2,1,,,,,,2020-10-02 18:00,Eastern,44.24795,-76.15733,,,,,,VR2AR,69,546880,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,3,1,,,,,,2020-10-02 18:00,Eastern,44.24872,-76.11835,,,,,,VR2AR,69,546066,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,4,1,,,,,,2020-10-02 18:00,Eastern,44.24194,-76.11181,,,,,,VR2AR,69,547527,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,5,1,,,,,,2020-10-02 18:00,Eastern,44.31191,-76.06912,,,,,,VR2AR,69,546873,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,6,1,,,,,,2020-10-02 18:00,Eastern,44.31865,-76.06186,,,,,,VR2AR,69,546882,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,7,1,,,,,,2020-10-27 18:00,Eastern,44.36880,-75.94930,,,,,,VR2AR,69,548271,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,8,1,,,,,,2020-10-28 18:00,Eastern,44.34588,-75.95602,,,,,,VR2AR,69,548265,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,9,1,,,,,,2020-10-02 18:00,Eastern,44.32292,-75.94324,,,,,,VR2AR,69,546876,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,10,1,,,,,,2020-10-27 18:00,Eastern,44.52310,-75.76600,,,,,,VR2AR,69,548251,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,11,1,,,,,,2020-10-29 18:00,Eastern,44.51748,-75.75720,,,,,,VR2AR,69,548275,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,12,1,,,,,,2020-10-27 18:00,Eastern,44.60490,-75.65130,,,,,,VR2AR,69,548276,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,13,1,,,,,,2020-10-29 18:00,Eastern,44.60063,-75.64557,,,,,,VR2AR,69,548262,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,14,1,,,,,,2020-10-27 18:00,Eastern,44.73580,-75.46410,,,,,,VR2AR,69,548241,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,15,1,,,,,,2020-10-27 18:00,Eastern,44.73640,-75.45330,,,,,,VR2AR,69,548254,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,16,1,,,,,,2020-10-27 18:00,Eastern,44.90780,-75.14680,,,,,,VR2AR,69,548255,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,17,1,,,,,,2020-10-27 18:00,Eastern,44.90350,-75.14510,,,,,,VR2AR,69,548253,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+SLR,,18,1,,,,,,2020-10-27 18:00,Eastern,44.89730,-75.14270,,,,,,VR2AR,69,547989,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HLD,,1,1,,,,,,2020-10-26 18:00,Eastern,44.24370,-76.29880,,,,,,VR2AR,69,548280,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HLD,,2,1,,,,,,2020-10-26 18:00,Eastern,44.23620,-76.29450,,,,,,VR2AR,69,548272,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+BTC,,3,1,,,,,,2020-10-26 18:00,Eastern,44.30830,-76.20430,,,,,,VR2AR,69,548273,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,10,1,,,,,,2021-07-21 18:00,Eastern,44.23349,-76.26974,,,,,,VR2AR,69,550334,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,7,1,,,,,,2021-07-21 18:00,Eastern,44.25803,-76.27308,,,,,,VR2AR,69,550347,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,8,1,,,,,,2021-07-21 18:00,Eastern,44.24966,-76.24442,,,,,,VR2AR,69,550344,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,11,1,,,,,,2021-07-21 18:00,Eastern,44.23356,-76.22350,,,,,,VR2AR,69,550346,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,9,1,,,,,,2021-07-21 18:00,Eastern,44.25392,-76.20937,,,,,,VR2AR,69,550343,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,4,1,,,,,,2021-07-21 18:00,Eastern,44.27368,-76.22503,,,,,,VR2AR,69,550336,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,5,1,,,,,,2021-07-21 18:00,Eastern,44.27426,-76.18686,,,,,,VR2AR,69,550341,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EHK,,1,1,,,,,,2021-07-21 18:00,Eastern,44.26053,-76.16472,,,,,,VR2AR,69,550345,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,6,1,,,,,,2021-07-23 18:00,Eastern,44.28513,-76.15443,,,,,,VR2AR,69,550340,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,3,1,,,,,,2021-07-23 18:00,Eastern,44.30721,-76.12515,,,,,,VR2AR,69,550348,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,2,1,,,,,,2021-07-23 18:00,Eastern,44.30207,-76.16269,,,,,,VR2AR,69,550342,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FAS,,1,1,,,,,,2021-07-23 18:00,Eastern,44.29335,-76.19798,,,,,,VR2AR,69,550339,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+BTC,,2,1,,,,,,2021-07-23 18:00,Eastern,44.30278,-76.25416,,,,,,VR2AR,69,550338,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+BTC,,1,1,,,,,,2021-07-23 18:00,Eastern,44.29200,-76.30021,,,,,,VR2AR,69,550337,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+KNP,,1,1,,,,,,2021-07-23 18:00,Eastern,44.24113,-76.40758,,,,,,VR2AR,69,550335,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+KNP,,2,1,,,,,,2021-07-23 18:00,Eastern,44.23432,-76.40245,,,,,,VR2AR,69,550349,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+WHK,,1,1,,,,,,2021-10-29 18:00,Eastern,44.25168,-76.18508,,,,,,VR2AR,69,548276,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+WHK,,2,1,,,,,,2021-10-30 18:00,Eastern,44.24292,-76.18576,,,,,,VR2AR,69,548241,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EHK,,2,1,,,,,,2021-10-31 18:00,Eastern,44.25570,-76.16843,,,,,,VR2AR,69,548255,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HLD,,1,2,,,,,,2021-11-01 18:00,Eastern,44.24370,-76.29880,,,,,,VR2AR,69,548253,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HLD,,2,2,,,,,,2021-11-02 18:00,Eastern,44.23620,-76.29450,,,,,,VR2AR,69,548254,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+BTC,,3,2,,,,,,2021-11-03 18:00,Eastern,44.30830,-76.20430,,,,,,VR2AR,69,548251,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IWC,,807,2,,,,,,2020-11-13 18:00,Eastern,44.82992,-75.30587,,,,,,VR2AR,69,546881,,,,,15 months,,,"Schlueter, S",,No,ELOMA,No
+IWC,,808,2,,,,,,2020-11-13 18:00,Eastern,44.82993,-75.30182,,,,,,VR2AR,69,546065,,,,,15 months,,,"Schlueter, S",,No,ELOMA,No
+HOW,,2,8,,,,,,2022-06-23 18:00,Eastern,44.26413,-76.35027,10.5,,,,,VR2W,69,126960,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,4,12,,,,,,2022-06-02 18:00,Eastern,44.12717,-76.81675,20.9,,,,,VR2Tx,69,481187,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,3,13,,,,,,2022-06-02 18:00,Eastern,44.12338,-76.82541,16.1,,,,,VR2Tx,69,482000,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,2,13,,,,,,2022-06-02 18:00,Eastern,44.12044,-76.83555,16.6,,,,,VR2Tx,69,483747,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+IAM,,1,13,,,,,,2022-06-02 18:00,Eastern,44.11715,-76.84579,15.6,,,,,VR2Tx,69,483746,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,1,13,,,,,,2022-06-02 18:00,Eastern,44.14568,-76.79850,18,,,,,VR2Tx,69,483751,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,2,12,,,,,,2022-06-02 18:00,Eastern,44.15208,-76.80180,34.4,,,,,VR2Tx,69,481254,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MAM,,3,13,,,,,,2022-06-02 18:00,Eastern,44.15867,-76.80427,40,,,,,VR2Tx,69,481257,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,2,13,,,,,,2022-06-02 18:00,Eastern,44.06322,-76.96356,28,,,,,VR2W,69,126980,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CNW,,1,12,,,,,,2022-06-02 18:00,Eastern,44.05830,-76.95671,40,,,,,VR2W,69,126984,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W15-EB10,10,9,,,,,,2022-06-15 18:00,Eastern,44.14880,-76.60160,22,,,,,VR2Tx,69,482001,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+ASG,W18-ASG1,1,7,,,,,,2022-06-24 18:00,Eastern,44.17992,-76.56762,7,,,,,VR2Tx,69,481186,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+ASG,W19-ASG2,2,9,,,,,,2022-06-24 18:00,Eastern,44.17937,-76.59478,17,,,,,VR2W,69,126998,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+ASG,W20-ASG3,3,9,,,,,,2022-06-24 18:00,Eastern,44.17690,-76.54678,12,,,,,VR2Tx,69,482002,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+WOL,,1,7,,,,,,2022-06-24 18:00,Eastern,44.17435,-76.49433,12,,,,,VR2Tx,69,481250,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,1,7,,,,,,2022-06-24 18:00,Eastern,44.20247,-76.55375,25.9,,,,,VR2Tx,69,481256,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,2,7,,,,,,2022-06-24 18:00,Eastern,44.19458,-76.54165,9,,,,,VR2Tx,69,482005,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LIN,,3,7,,,,,,2022-06-24 18:00,Eastern,44.18637,-76.53053,7,,,,,VR2Tx,69,481253,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W12-EB7,7,8,,,,,,2022-06-15 18:00,Eastern,43.99925,-76.59890,14.9,,,,,VR2W,69,126968,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W16-EB11,11,9,,,,,,2022-06-15 18:00,Eastern,44.04687,-76.50090,12.9,,,,,VR2W,69,126970,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W17-EB12,12,8,,,,,,2022-06-15 18:00,Eastern,44.09737,-76.49053,7,,,,,VR2W,69,126997,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FPT,W1-FPT,1,8,,,,,,2022-06-14 18:00,Eastern,43.94760,-77.00170,11.0,,,,,VR2Tx,69,486580,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LPT,W2-LPT,1,7,,,,,,2022-06-14 18:00,Eastern,43.95063,-76.89930,28.5,,,,,VR2W,69,126959,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GRI,W3-GRI1,1,8,,,,,,2022-06-14 18:00,Eastern,43.99883,-76.90068,31,,,,,VR2W,69,128983,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GRI,W4-GRI2,2,8,,,,,,2022-06-14 18:00,Eastern,44.01248,-76.92643,10,,,,,VR2W,69,126999,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+FDI,W5-FDI,1,8,,,,,,2022-06-14 18:00,Eastern,43.95300,-76.79687,21.0,,,,,VR2Tx,69,481189,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W8-EB3,3,8,,,,,,2022-06-14 18:00,Eastern,43.95007,-76.69948,34.8,,,,,VR2W,69,126956,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+PBY,,1,6,,,,,,2022-06-09 18:00,Eastern,44.00692,-77.68596,4,,,,,VR2Tx,69,486581,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNT,,1,9,,,,,,2022-06-09 18:00,Eastern,44.09992,-77.57183,2.5,,,,,VR2W,69,126979,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TRR,,1,5,,,,,,2022-06-09 18:00,Eastern,44.10812,-77.58181,2,,,,,VR2W,69,126957,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNN,,1,11,,,,,,2022-06-09 18:00,Eastern,44.10920,-77.49803,4.4,,,,,VR2Tx,69,482004,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TNN,,2,12,,,,,,2022-06-09 18:00,Eastern,44.11262,-77.50018,5,,,,,VR2W,69,126961,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MPT,,1,13,,,,,,2022-06-09 18:00,Eastern,44.15147,-77.31048,8,,,,,VR2W,69,129985,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+MOR,,1,5,,,,,,2022-06-09 18:00,Eastern,44.15860,-77.38483,3.2,,,,,VR2W,69,126996,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+TGN,,1,12,,,,,,2022-06-09 18:00,Eastern,44.16413,-77.12430,2.9,,,,,VR2Tx,69,482003,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+DBG,,1,12,,,,,,2022-06-09 18:00,Eastern,44.17297,-77.08905,4.9,,,,,VR2W,69,131934,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+LRH,,1,12,,,,,,2022-06-06 18:00,Eastern,44.14018,-77.06402,10,,,,,VR2Tx,69,486582,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HBY,,1,9,,,,,,2022-06-06 18:00,Eastern,44.09485,-77.06233,8.6,,,,,VR2W,69,129986,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HBY,,2,9,,,,,,2022-06-06 18:00,Eastern,44.09965,-77.06342,8,,,,,VR2W,69,481190,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+NPR,,2,7,,,,,,2022-06-06 18:00,Eastern,44.19902,-77.00732,3.2,,,,,VR2Tx,69,481255,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+NPR,,1,7,,,,,,2022-06-06 18:00,Eastern,44.21738,-76.97323,1.2,,,,,VR2Tx,69,486584,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GNR,,1,12,,,,,,2022-06-06 18:00,Eastern,44.04562,-77.06193,14.5,,,,,VR2Tx,69,486585,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+GNR,,2,12,,,,,,2022-06-06 18:00,Eastern,44.04877,-77.06053,21,,,,,VR2W,69,126973,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W11-EB6,6,8,,,,,,2022-06-15 18:00,Eastern,44.09818,-76.70340,22.0,,,,,VR2Tx,69,483748,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W10-EB5,5,8,,,,,,2022-06-15 18:00,Eastern,44.04847,-76.70177,27,,,,,VR2W,69,126969,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W13-EB8,8,8,,,,,,2022-06-15 18:00,Eastern,44.04782,-76.60072,33.5,,,,,VR2W,69,126974,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W14-EB9,9,8,,,,,,2022-06-15 18:00,Eastern,44.09778,-76.60032,33,,,,,VR2W,69,126964,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W6-EB1,1,9,,,,,,2022-06-14 18:00,Eastern,43.99907,-76.80248,32,,,,,VR2Tx,69,486579,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+EAB,W7-EB2,2,8,,,,,,2022-06-14 18:00,Eastern,44.04937,-76.80135,30,,,,,VR2W,69,128975,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+HOW,,1,7,,,,,,2022-06-23 18:00,Eastern,44.24163,-76.33552,8,,,,,VR2W,69,126958,,,,,15 months,,,"Elliott, C",,No,ELOMA,No
+CPV,W24-CPV1,1,5,,,,,,2022-06-08 18:00,Eastern,44.13025,-76.35730,20,,,,,VR2W,69,128773,,,,,15 months,,,"Elliott, C",W24-CPV1,No,ELOMA,No
+CPV,W25-CPV2,2,5,,,,,,2022-06-08 18:00,Eastern,44.13025,-76.35730,20,,,,,VR2W,69,126975,,,,,15 months,,,"Elliott, C",W25-CPV2,No,ELOMA,No
+LND,W26-LND1,1,5,,,,,,2022-06-08 18:00,Eastern,44.21253,-76.21327,26,,,,,VR2Tx,69,481249,,,,,15 months,,,"Elliott, C",W26-LND1,No,ELOMA,No
+LND,W27-LND2,2,5,,,,,,2022-06-08 18:00,Eastern,44.20433,-76.20948,22,,,,,VR2W,69,126978,,,,,15 months,,,"Elliott, C",W27-LND2,No,ELOMA,No
+FAS,,10,2,,,,,,2022-09-12 18:00,Eastern,44.23349,-76.26974,12,,,,,VR2AR,69,548272,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,7,2,,,,,,2022-09-12 18:00,Eastern,44.25803,-76.27308,13,,,,,VR2AR,69,548285,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,8,2,,,,,,2022-09-12 18:00,Eastern,44.24966,-76.24442,14,,,,,VR2AR,69,547989,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,11,2,,,,,,2022-09-12 18:00,Eastern,44.23356,-76.22350,7,,,,,VR2AR,69,548279,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,9,2,,,,,,2022-09-12 18:00,Eastern,44.25392,-76.20937,15,,,,,VR2AR,69,548273,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,4,2,,,,,,2022-09-29 18:00,Eastern,44.27368,-76.22503,7,,,,,VR2AR,69,550347,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,5,2,,,,,,2022-09-29 18:00,Eastern,44.27426,-76.18686,18,,,,,VR2AR,69,550346,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EHK,,1,2,,,,,,2022-09-29 18:00,Eastern,44.26053,-76.16472,5,,,,,VR2AR,69,550335,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,6,2,,,,,,2022-09-29 18:00,Eastern,44.28513,-76.15443,37,,,,,VR2AR,69,550349,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,3,2,,,,,,2022-09-29 18:00,Eastern,44.30721,-76.12515,17,,,,,VR2AR,69,550344,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,2,2,,,,,,2022-09-29 18:00,Eastern,44.30207,-76.16269,10,,,,,VR2AR,69,550334,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,1,2,,,,,,2022-09-29 18:00,Eastern,44.29335,-76.19798,4,,,,,VR2AR,69,550343,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,2,2,,,,,,2022-10-23 18:00,Eastern,44.30278,-76.25416,18,,,,,VR2AR,69,550348,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,1,2,,,,,,2022-10-23 18:00,Eastern,44.29200,-76.30021,14,,,,,VR2AR,69,550342,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+KNP,,1,2,,,,,,2022-09-12 18:00,Eastern,44.24113,-76.40758,15,,,,,VR2AR,69,548280,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+KNP,,2,2,,,,,,2022-09-12 18:00,Eastern,44.23432,-76.40245,16,,,,,VR2AR,69,548271,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WHK,,1,2,,,,,,2022-10-23 18:00,Eastern,44.25168,-76.18508,9,,,,,VR2AR,69,550340,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WHK,,2,2,,,,,,2022-10-23 18:00,Eastern,44.24292,-76.18576,8,,,,,VR2AR,69,550345,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EHK,,2,2,,,,,,2022-10-23 18:00,Eastern,44.25570,-76.16843,12,,,,,VR2AR,69,550339,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HLD,,1,3,,,,,,2022-10-23 18:00,Eastern,44.24370,-76.29880,25,,,,,VR2AR,69,550336,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HLD,,2,3,,,,,,2022-10-23 18:00,Eastern,44.23620,-76.29450,9,,,,,VR2AR,69,550341,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,3,3,,,,,,2022-10-23 18:00,Eastern,44.30830,-76.20430,13,,,,,VR2AR,69,550337,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,7,4,,,,,,2022-10-24 11:00,Eastern,43.92273,-76.58327,19.8,,,,,VR2W,69,126976,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,13,3,,,,,,2022-10-24 11:00,Eastern,43.90803,-76.58350,29,,,,,VR2W,69,126981,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,3,4,,,,,,2022-10-05 11:00,Eastern,43.93173,-76.66337,35.1,,,,,VR2W,69,481248,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,9,4,,,,,,2022-10-05 11:00,Eastern,43.91678,-76.67042,9.8,,,,,VR2W,69,481188,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,10,4,,,,,,2022-10-05 11:00,Eastern,43.90970,-76.65030,10.7,,,,,VR2W,69,128974,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,11,4,,,,,,2022-10-05 11:00,Eastern,43.90193,-76.62740,18.3,,,,,VR2Tx,69,126965,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,12,4,,,,,,2022-10-24 11:00,Eastern,43.90128,-76.60374,14.6,,,,,VR2W,69,483749,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,6,4,,,,,,2022-10-24 11:00,Eastern,43.91467,-76.59822,6.1,,,,,VR2W,69,126966,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,5,4,,,,,,2022-10-05 11:00,Eastern,43.91668,-76.62755,6.1,,,,,VR2W,69,126988,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,4,4,,,,,,2022-10-05 11:00,Eastern,43.92405,-76.64722,6.1,,,,,VR2W,69,481185,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,2,4,,,,,,2022-10-05 11:00,Eastern,43.93160,-76.59572,19.8,,,,,VR2W,69,126977,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,18,3,,,,,,2022-10-24 11:00,Eastern,43.88923,-76.59792,36.6,,,,,VR2Tx,69,126987,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,17,3,,,,,,2022-10-24 11:00,Eastern,43.88657,-76.61592,33.5,,,,,VR2W,69,126994,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,16,4,,,,,,2022-10-05 11:00,Eastern,43.88663,-76.64188,27.4,,,,,VR2W,69,481251,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,15,4,,,,,,2022-10-05 11:00,Eastern,43.89473,-76.66043,21.3,,,,,VR2W,69,131935,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,14,4,,,,,,2022-10-05 11:00,Eastern,43.90293,-76.68107,16.8,,,,,VR2W,69,486583,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,1,4,,,,,,2022-10-05 11:00,Eastern,43.93872,-76.63553,30.5,,,,,VR2W,69,126962,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MDA,,8,4,,,,,,2022-10-05 11:00,Eastern,43.92169,-76.69262,33.5,,,,,VR2Tx,69,126986,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W18-ASG1,1,8,,,,,,2022-11-02 10:00,Eastern,44.17992,-76.56762,7,,,,,VR2Tx,69,481186,,,,,9 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W19-ASG2,2,10,,,,,,2022-11-02 10:00,Eastern,44.17937,-76.59478,17,,,,,VR2W,69,126998,,,,,9 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W20-ASG3,3,10,,,,,,2022-11-02 10:00,Eastern,44.17690,-76.54678,12,,,,,VR2Tx,69,482002,,,,,9 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,1,8,,,,,,2022-11-02 10:00,Eastern,44.20247,-76.55375,25.9,,,,,VR2Tx,69,481256,,,,,9 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,2,8,,,,,,2022-11-02 10:00,Eastern,44.19458,-76.54165,9,,,,,VR2Tx,69,482005,,,,,9 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,3,8,,,,,,2022-11-02 10:00,Eastern,44.18637,-76.53053,7,,,,,VR2Tx,69,481253,,,,,9 months,,,"Wolf, P",,No,ELOMA,No
+HOW,,2,9,,,,,,2023-06-09 18:00,Eastern,44.26413,-76.35027,10.5,,,,,VR2W,69,482004,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,4,13,,,,,,2023-06-05 18:00,Eastern,44.12717,-76.81675,20.9,,,,,VR2Tx,69,129985,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,3,14,,,,,,2023-06-05 18:00,Eastern,44.12338,-76.82541,16.1,,,,,VR2Tx,69,486582,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,2,14,,,,,,2023-06-05 18:00,Eastern,44.12044,-76.83555,16.6,,,,,VR2Tx,69,126979,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+IAM,,1,14,,,,,,2023-06-05 18:00,Eastern,44.11715,-76.84579,15.6,,,,,VR2Tx,69,486585,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MAM,,1,14,,,,,,2023-06-05 18:00,Eastern,44.14568,-76.79850,18.0,,,,,VR2Tx,69,129986,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MAM,,2,13,,,,,,2023-06-05 18:00,Eastern,44.15208,-76.80180,34.4,,,,,VR2Tx,69,481190,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MAM,,3,14,,,,,,2023-06-05 18:00,Eastern,44.15867,-76.80427,40.0,,,,,VR2Tx,69,481255,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CNW,,2,14,,,,,,2023-06-05 18:00,Eastern,44.06322,-76.96356,28.0,,,,,VR2W,69,481252,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CNW,,1,13,,,,,,2023-06-05 18:00,Eastern,44.05830,-76.95671,40.0,,,,,VR2W,69,126963,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W15-EB10,10,10,,,,,,2023-06-14 18:00,Eastern,44.14880,-76.60160,22.0,,,,,VR2Tx,69,126960,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W18-ASG1,1,9,,,,,,2023-06-22 18:00,Eastern,44.17992,-76.56762,7.0,,,,,VR2Tx,69,128983,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W19-ASG2,2,11,,,,,,2023-06-14 18:00,Eastern,44.17937,-76.59478,17.0,,,,,VR2W,69,481250,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+ASG,W20-ASG3,3,11,,,,,,2023-06-14 18:00,Eastern,44.17690,-76.54678,12.0,,,,,VR2Tx,69,482005,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WOL,,1,8,,,,,,2023-06-09 18:00,Eastern,44.17435,-76.49433,12.0,,,,,VR2Tx,69,482000,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,1,9,,,,,,2023-06-09 18:00,Eastern,44.20247,-76.55375,25.9,,,,,VR2Tx,69,483746,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,2,9,,,,,,2023-06-09 18:00,Eastern,44.19458,-76.54165,9.0,,,,,VR2Tx,69,481254,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LIN,,3,9,,,,,,2023-06-09 18:00,Eastern,44.18637,-76.53053,7.0,,,,,VR2Tx,69,481257,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W12-EB7,7,9,,,,,,2023-06-16 18:00,Eastern,43.99925,-76.59890,14.9,,,,,VR2W,69,126984,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W16-EB11,11,10,,,,,,2023-06-22 18:00,Eastern,44.04687,-76.50090,12.9,,,,,VR2W,69,126974,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W17-EB12,12,9,,,,,,2023-06-22 18:00,Eastern,44.09737,-76.49053,7.0,,,,,VR2W,69,126959,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FPT,W1-FPT,1,9,,,,,,2023-06-16 18:00,Eastern,43.94760,-77.00170,11.0,,,,,VR2Tx,69,126998,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LPT,W2-LPT,1,8,,,,,,2023-06-16 18:00,Eastern,43.95063,-76.89930,28.5,,,,,VR2W,69,482001,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GRI,W3-GRI1,1,9,,,,,,2023-06-16 18:00,Eastern,43.99883,-76.90068,31.0,,,,,VR2W,69,126958,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GRI,W4-GRI2,2,9,,,,,,2023-06-16 18:00,Eastern,44.01248,-76.92643,10.0,,,,,VR2W,69,481253,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FDI,W5-FDI,1,9,,,,,,2023-06-16 18:00,Eastern,43.95300,-76.79687,21.0,,,,,VR2Tx,69,126980,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W8-EB3,3,9,,,,,,2023-06-16 18:00,Eastern,43.95007,-76.69948,34.8,,,,,VR2W,69,481187,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+PBY,,1,7,,,,,,2023-06-05 18:00,Eastern,44.00692,-77.68596,4.0,,,,,VR2Tx,69,126973,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TNT,,1,10,,,,,,2023-05-31 18:00,Eastern,44.09992,-77.57183,2.5,,,,,VR2W,69,126967,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TRR,,1,6,,,,,,2023-05-31 18:00,Eastern,44.10812,-77.58181,2.0,,,,,VR2W,69,126991,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TNN,,1,12,,,,,,2023-05-31 18:00,Eastern,44.10920,-77.49803,4.4,,,,,VR2Tx,69,126993,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TNN,,2,13,,,,,,2023-05-31 18:00,Eastern,44.11262,-77.50018,5.0,,,,,VR2W,69,126985,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MPT,,1,14,,,,,,2023-05-31 18:00,Eastern,44.15147,-77.31048,8.0,,,,,VR2W,69,126972,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+MOR,,1,6,,,,,,2023-05-31 18:00,Eastern,44.15860,-77.38483,3.2,,,,,VR2W,69,126995,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+TGN,,1,13,,,,,,2023-05-31 18:00,Eastern,44.16413,-77.12430,2.9,,,,,VR2Tx,69,126971,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+DBG,,1,13,,,,,,2023-05-31 18:00,Eastern,44.17297,-77.08905,4.9,,,,,VR2W,69,126990,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LRH,,1,13,,,,,,2023-06-01 18:00,Eastern,44.14018,-77.06402,10.0,,,,,VR2Tx,69,126996,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HBY,,1,10,,,,,,2023-06-01 18:00,Eastern,44.09485,-77.06233,8.6,,,,,VR2W,69,131934,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HBY,,2,10,,,,,,2023-06-01 18:00,Eastern,44.09965,-77.06342,8.0,,,,,VR2W,69,482003,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+NPR,,2,8,,,,,,2023-06-01 18:00,Eastern,44.19902,-77.00732,3.2,,,,,VR2Tx,69,126992,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+NPR,,1,8,,,,,,2023-06-01 18:00,Eastern,44.21738,-76.97323,1.2,,,,,VR2Tx,69,483750,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GNR,,1,13,,,,,,2023-06-01 18:00,Eastern,44.04562,-77.06193,14.5,,,,,VR2Tx,69,126961,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+GNR,,2,13,,,,,,2023-06-01 18:00,Eastern,44.04877,-77.06053,21.0,,,,,VR2W,69,126957,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W11-EB6,6,9,,,,,,2023-06-16 18:00,Eastern,44.09818,-76.70340,22.0,,,,,VR2Tx,69,486581,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W10-EB5,5,9,,,,,,2023-06-16 18:00,Eastern,44.04847,-76.70177,27.0,,,,,VR2W,69,483751,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W13-EB8,8,9,,,,,,2023-06-16 18:00,Eastern,44.04782,-76.60072,33.5,,,,,VR2W,69,483747,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W14-EB9,9,9,,,,,,2023-06-14 18:00,Eastern,44.09778,-76.60032,33.0,,,,,VR2W,69,481256,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W6-EB1,1,10,,,,,,2023-06-16 18:00,Eastern,43.99907,-76.80248,32.0,,,,,VR2Tx,69,482002,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W7-EB2,2,9,,,,,,2023-06-16 18:00,Eastern,44.04937,-76.80135,30.0,,,,,VR2W,69,126964,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HOW,,1,8,,,,,,2023-06-09 18:00,Eastern,44.24163,-76.33552,8.0,,,,,VR2W,69,486584,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CPV,W24-CPV1,1,6,,,,,,2023-05-26 18:00,Eastern,44.13025,-76.35730,20.0,,,,,VR2W,69,128773,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+CPV,W25-CPV2,2,6,,,,,,2023-05-26 18:00,Eastern,44.13025,-76.35730,20.0,,,,,VR2W,69,126975,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+LND,W26-LND1,1,6,,,,,,2023-05-26 18:00,Eastern,44.21253,-76.21327,26.0,,,,,VR2Tx,69,481249,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,10,3,,,,,,2023-10-04 18:00,Eastern,44.23349,-76.26974,12.0,,,,,VR2AR,69,550336,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,7,3,,,,,,2023-10-04 18:00,Eastern,44.25803,-76.27308,13.0,,,,,VR2AR,69,550335,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,8,3,,,,,,2023-10-04 18:00,Eastern,44.24966,-76.24442,14.0,,,,,VR2AR,69,550344,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,11,3,,,,,,2023-10-04 18:00,Eastern,44.23356,-76.22350,7.0,,,,,VR2AR,69,550349,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,9,3,,,,,,2023-10-04 18:00,Eastern,44.25392,-76.20937,15.0,,,,,VR2AR,69,548271,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,4,3,,,,,,2023-10-04 18:00,Eastern,44.27368,-76.22503,7.0,,,,,VR2AR,69,550343,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,5,3,,,,,,2023-10-04 18:00,Eastern,44.27426,-76.18686,18.0,,,,,VR2AR,69,550334,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EHK,,1,3,,,,,,2023-10-04 18:00,Eastern,44.26053,-76.16472,5.0,,,,,VR2AR,69,550337,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,6,3,,,,,,2023-10-04 18:00,Eastern,44.28513,-76.15443,37.0,,,,,VR2AR,69,550345,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,3,3,,,,,,2023-10-04 18:00,Eastern,44.30721,-76.12515,17.0,,,,,VR2AR,69,550346,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,2,3,,,,,,2023-10-04 18:00,Eastern,44.30207,-76.16269,10.0,,,,,VR2AR,69,547989,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+FAS,,1,3,,,,,,2023-10-04 18:00,Eastern,44.29335,-76.19798,4.0,,,,,VR2AR,69,550341,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,2,3,,,,,,2023-10-04 18:00,Eastern,44.30278,-76.25416,18.0,,,,,VR2AR,69,548279,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,1,3,,,,,,2023-10-04 18:00,Eastern,44.29200,-76.30021,14.0,,,,,VR2AR,69,550340,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+KNP,,1,3,,,,,,2023-10-04 18:00,Eastern,44.24113,-76.40758,15.0,,,,,VR2AR,69,550339,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+KNP,,2,3,,,,,,2023-10-04 18:00,Eastern,44.23432,-76.40245,16.0,,,,,VR2AR,69,550342,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WHK,,1,3,,,,,,2023-10-04 18:00,Eastern,44.25168,-76.18508,9.0,,,,,VR2AR,69,550347,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+WHK,,2,3,,,,,,2023-10-04 18:00,Eastern,44.24292,-76.18576,8.0,,,,,VR2AR,69,548273,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EHK,,2,3,,,,,,2023-10-04 18:00,Eastern,44.25570,-76.16843,12.0,,,,,VR2AR,69,548272,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HLD,,1,4,,,,,,2023-10-04 18:00,Eastern,44.24370,-76.29880,25.0,,,,,VR2AR,69,550348,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+HLD,,2,4,,,,,,2023-10-04 18:00,Eastern,44.23620,-76.29450,9.0,,,,,VR2AR,69,548280,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+BTC,,3,4,,,,,,2023-10-04 18:00,Eastern,44.30830,-76.20430,13.0,,,,,VR2AR,69,548285,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+EAB,W9-EB4,4,8,,,,,,2023-08-14 18:00,Eastern,44.00003,-76.70060,,,,,,VR2W,69,126977,,,,,15 months,,,"Wolf, P",,No,ELOMA,No
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
